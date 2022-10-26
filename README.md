@@ -14,9 +14,13 @@ Course Project of DSCI558: Knowledge Graph
 
 To build 2K-KG:
 
-`npm install`
+1. Go to [Repl.](https://replit.com/~)
 
-`node demo.js`
+2. Create a Repl with `node.js` or click `import from github`
+   `npm install`
+
+3. Click `Run`
+   Warning: if run first time, need to `npm dedupe` when saw error "Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm."
 
 ## Domain
 
