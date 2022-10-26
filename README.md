@@ -12,6 +12,12 @@ Course Project of DSCI558: Knowledge Graph
 4. A machine learning engine \_\_\_ to allow users make predictions while browsing the knowledge graph.
 5. Repl.it IDE environment -- to deploy the 2KKG app.
 
+To build 2K-KG:
+
+`npm install`
+
+`node demo.js`
+
 ## Domain
 
 NBA 2K is a sports simulation game for basketball and has been the Sports Game of the Year for a couple of years. It uses real-life NBA players' data plus some unique features such as 2K ratings & skill badges of each player. Badges are an attribute of a player’s signature skills, personality, special abilities, and advantages.

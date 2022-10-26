@@ -1,12 +1,12 @@
-const express = require('express');
-const { ApolloServer } = require('apollo-server-express');
+var express = require('express');
+const graphqlHTTP = require('express-graphql').graphqlHTTP;
 const staple = require('staple-api');
 
-const ontology = {
+let ontology = {
     file: './docs/ontology.ttl',
 };
 
-const config = {
+let config = {
     dataSources: {
         default: 'defaultSource',
         defaultSource: {
@@ -19,20 +19,20 @@ const config = {
     },
 };
 
-async function Staple() {
-    const stapleApi = await staple(ontology, config);
-    const schema = stapleApi.schema;
+async function StapleDemo() {
+    let stapleApi = await staple(ontology, config);
 
-    const server = new ApolloServer({
-        schema,
-    });
+    var app = express();
+    app.use(
+        '/graphql',
+        graphqlHTTP({
+            schema: stapleApi.schema,
+            graphiql: true,
+        })
+    );
 
-    const app = express();
-    const path = '/graphql';
-
-    server.applyMiddleware({ app, path });
-
-    app.listen({ port: 5500 }, () => console.log('🚀 Server ready'));
+    app.listen(4000);
+    console.log('Running a GraphQL API server at localhost:4000/graphql');
 }
 
-Staple();
+StapleDemo();
