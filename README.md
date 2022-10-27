@@ -2,6 +2,17 @@
 
 Course Project of DSCI558: Knowledge Graph
 
+To build 2K-KG:
+
+1. Go to [Repl.](https://replit.com/~)
+
+2. Create a Repl with `node.js` or click `import from github`
+   `npm install`
+
+3. Click `Run`
+
+    Warning: if run first time, need to `npm dedupe` when saw error "Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm." then click `Run` again.
+
 ## Overview
 
 2KKG is a simple knowledge graph applications using \_\_\_ data managed entirely via a GraphQL layer. It involves:
@@ -11,16 +22,6 @@ Course Project of DSCI558: Knowledge Graph
 3. vis.js -- a front-end graph visualization tool.
 4. A machine learning engine \_\_\_ to allow users make predictions while browsing the knowledge graph.
 5. Repl.it IDE environment -- to deploy the 2KKG app.
-
-To build 2K-KG:
-
-1. Go to [Repl.](https://replit.com/~)
-
-2. Create a Repl with `node.js` or click `import from github`
-   `npm install`
-
-3. Click `Run`
-   Warning: if run first time, need to `npm dedupe` when saw error "Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm."
 
 ## Domain
 
