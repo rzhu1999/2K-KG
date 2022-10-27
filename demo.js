@@ -2,6 +2,8 @@ const express = require('express');
 const { ApolloServer } = require('apollo-server-express');
 const staple = require('staple-api');
 
+import { mongoDBPassword } from './secret.js';
+
 const ontology = {
     file: './docs/ontology.ttl',
 };
@@ -11,7 +13,7 @@ const config = {
         default: 'defaultSource',
         defaultSource: {
             type: 'mongodb',
-            url: 'mongodb+srv://rzhu1999:dsci558@cluster0.bb9jsfr.mongodb.net/?retryWrites=true&w=majority',
+            url: `mongodb+srv://rzhu1999:${mongoDBPassword}@cluster0.bb9jsfr.mongodb.net/?retryWrites=true&w=majority`,
             dbName: '2k-kg-db',
             collectionName: 'dsci558',
             description: 'MongoDB Atlas instance',

@@ -6,7 +6,7 @@ To build 2K-KG:
 
 1. Go to [Repl.](https://replit.com/~)
 
-2. Create a Repl with `node.js` or click `import from github`
+2. Create a Repl with `node.js` or click `import from github` with link https://github.com/rzhu1999/2K-KG
    `npm install`
 
 3. Click `Run`
