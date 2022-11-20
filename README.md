@@ -2,18 +2,35 @@
 
 Course Project of DSCI558: Knowledge Graph
 
-To build 2K-KG:
+## To build 2K-KG:
 
 1. Change MongoDB Config inside `demo.js`
 
-    create a file named `secrets.js` and type `const mongoDBPassword = '{Your Own MongoDB Password Here}';`
+    create a file named `secrets.js` and type
 
-2. Go to [Repl.](https://replit.com/~)
+    ```
+    function define(name, value) {
+        Object.defineProperty(exports, name, {
+            value: value,
+            enumerable: true,
+        });
+    }
 
-3. Create a Repl with `node.js` or click `import from github` with link https://github.com/rzhu1999/2K-KG
+    define('mongoDBPassword', 'CHANGE_TO_YOUR_OWN_PASSWORD');
+    ```
+
+2. `node demo.js`
+
+    Warning: if run first time, need to `npm dedupe` when saw error _"Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm."_ then `node demo.js` again.
+
+### Deployment
+
+1. Go to [Repl.](https://replit.com/~)
+
+2. Create a Repl with `node.js` or click `import from github` with link https://github.com/rzhu1999/2K-KG
    `npm install`
 
-4. Click `Run`
+3. Click `Run`
 
     Warning: if run first time, need to `npm dedupe` when saw error "Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm." then click `Run` again.
 

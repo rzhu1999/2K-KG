@@ -2,7 +2,7 @@ const express = require('express');
 const { ApolloServer } = require('apollo-server-express');
 const staple = require('staple-api');
 
-import { mongoDBPassword } from './secret.js';
+var secrets = require('./secret');
 
 const ontology = {
     file: './docs/ontology.ttl',
@@ -13,7 +13,7 @@ const config = {
         default: 'defaultSource',
         defaultSource: {
             type: 'mongodb',
-            url: `mongodb+srv://rzhu1999:${mongoDBPassword}@cluster0.bb9jsfr.mongodb.net/?retryWrites=true&w=majority`,
+            url: `mongodb+srv://rzhu1999:${secrets.mongoDBPassword}@cluster0.bb9jsfr.mongodb.net/?retryWrites=true&w=majority`,
             dbName: '2k-kg-db',
             collectionName: 'dsci558',
             description: 'MongoDB Atlas instance',
@@ -52,7 +52,7 @@ async function Staple() {
     const path = '/graphql';
     server.applyMiddleware({ app, path });
 
-    app.listen({ port: 3000 }, () => console.log('🚀 Server ready'));
+    app.listen({ port: 3000 }, () => console.log('🚀 Server ready: http://localhost:3000/'));
 }
 
 Staple();
