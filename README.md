@@ -2,6 +2,8 @@
 
 Course Project of DSCI558: Knowledge Graph
 
+<img src="./photo/welcome.png" height="450" width="800"/>
+
 ## Overview
 
 2KKG is a simple knowledge graph applications using \_\_\_ data managed entirely via a GraphQL layer. It involves:
