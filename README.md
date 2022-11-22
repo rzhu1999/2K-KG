@@ -6,11 +6,11 @@ Course Project of DSCI558: Knowledge Graph
 
 ## Overview
 
-2KKG is a simple knowledge graph applications using \_\_\_ data managed entirely via a GraphQL layer. It involves:
+2KKG is a simple knowledge graph applications using \_\_\_ data managed entirely via a GraphQL layer called Staple API. It involves:
 
 1. \_\_\_ data (from 2KDB, NBA Official, Wikipedia) stored in a free-tire MongoDB Atlas instance.
 
- <img src="./photo/2kdb.png" height="100" width="200"/>
+  <img src="./photo/2kdb.png" height="100" width="200"/>
   <img src="./photo/mongo.png" height="100" width="200"/>
 
 2. Staple API -- a lightweight GraphQL-based API for managing knowledge graphs on top of different data storage back-ends.
