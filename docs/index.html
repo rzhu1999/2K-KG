@@ -20,10 +20,14 @@
     </head>
 
     <body onload="start();">
+        <div style="height: 100px"><div class="header"></div></div>
         <div class="fixed-header">
             <div id="frame">
                 <select id="names_box" class="selectpicker" data-live-search="true"></select>
             </div>
+            <button type="button" onclick="parent.open('http://localhost:3030/#/')">
+                Sparql Query Engine (Apache Jena Fuseki)
+            </button>
             <button type="button" onclick="downloadData()">Download data</button>
             <a id="downloadAnchorElem" style="display: none"></a>
             <div id="statement">Loading, please wait...</div>
