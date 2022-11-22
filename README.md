@@ -10,13 +10,11 @@ Course Project of DSCI558: Knowledge Graph
 
 1. \_\_\_ data (from 2KDB, NBA Official, Wikipedia) stored in a free-tire MongoDB Atlas instance.
 
-  <img src="./photo/2kdb.png" height="100" width="200"/>
-  <img src="./photo/mongo.png" height="100" width="200"/>
+<img src="./photo/2kdb.png" height="100" width="200"/> <img src="./photo/mongo.png" height="100" width="200"/>
 
 2. Staple API -- a lightweight GraphQL-based API for managing knowledge graphs on top of different data storage back-ends.
 
- <img src="./photo/staple.png" height="100" width="200"/>
- <img src="./photo/graphql.png" height="100" width="200"/>
+<img src="./photo/staple.png" height="100" width="200"/> <img src="./photo/graphql.png" height="100" width="200"/>
 
 3. vis.js -- a front-end graph [visualization](https://visjs.github.io/vis-network/examples/network/nodeStyles/circularImages.html) tool.
 
