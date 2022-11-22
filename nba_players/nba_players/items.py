@@ -10,6 +10,11 @@ class NbaPlayerItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     name = scrapy.Field()
+    full_name = scrapy.Field()
+    born = scrapy.Field()
+    salary = scrapy.Field()
+    weight = scrapy.Field()
+    player_link = scrapy.Field()
     overallRating = scrapy.Field()
     threesRating = scrapy.Field()
     dunkRating = scrapy.Field()
