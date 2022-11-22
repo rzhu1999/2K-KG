@@ -2,11 +2,32 @@
 
 Course Project of DSCI558: Knowledge Graph
 
+## Overview
+
+2KKG is a simple knowledge graph applications using \_\_\_ data managed entirely via a GraphQL layer. It involves:
+
+1. \_\_\_ data (from 2KDB, NBA Official, Wikipedia) stored in a free-tire MongoDB Atlas instance.
+
+ <img src="./photo/2kdb.png" height="100" width="200"/>
+  <img src="./photo/mongo.png" height="100" width="200"/>
+
+2. Staple API -- a lightweight GraphQL-based API for managing knowledge graphs on top of different data storage back-ends.
+
+ <img src="./photo/staple.png" height="100" width="200"/>
+ <img src="./photo/graphql.png" height="100" width="200"/>
+
+3. vis.js -- a front-end graph [visualization](https://visjs.github.io/vis-network/examples/network/nodeStyles/circularImages.html) tool.
+
+ <img src="./photo/vis.png" height="80" width="200"/>
+
+4. A machine learning engine \_\_\_ to allow users make predictions while browsing the knowledge graph.
+5. (Optional) Repl.it IDE environment -- to deploy the 2KKG app.
+
 ## To build 2K-KG:
 
 1. Change MongoDB Config inside `demo.js`
 
-    create a file named `secrets.js` and type
+    create a file named `secret.js` and type
 
     ```
     function define(name, value) {
@@ -19,9 +40,15 @@ Course Project of DSCI558: Knowledge Graph
     define('mongoDBPassword', 'CHANGE_TO_YOUR_OWN_PASSWORD');
     ```
 
-2. `node demo.js`
+2. `npm install`
+
+3. `node demo.js`
 
     Warning: if run first time, need to `npm dedupe` when saw error _"Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm."_ then `node demo.js` again.
+
+## To set up Apache Jena Fuseki (Sparql Query Engine)
+
+`./apache-jena-fuseki-4.6.1/fuseki-server --file=./data.nt --localhost /ds `
 
 ### Deployment
 
@@ -33,16 +60,6 @@ Course Project of DSCI558: Knowledge Graph
 3. Click `Run`
 
     Warning: if run first time, need to `npm dedupe` when saw error "Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm." then click `Run` again.
-
-## Overview
-
-2KKG is a simple knowledge graph applications using \_\_\_ data managed entirely via a GraphQL layer. It involves:
-
-1. \_\_\_ data (from 2KDB, NBA Official, Wikipedia) stored in a free-tire MongoDB Atlas instance.
-2. Staple API -- a lightweight GraphQL-based API for managing knowledge graphs on top of different data storage back-ends.
-3. vis.js -- a front-end graph visualization tool.
-4. A machine learning engine \_\_\_ to allow users make predictions while browsing the knowledge graph.
-5. Repl.it IDE environment -- to deploy the 2KKG app.
 
 ## Domain
 

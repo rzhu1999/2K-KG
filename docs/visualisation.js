@@ -291,6 +291,7 @@ function getRelated(parent) {
     }
 }
 
+/*
 function downloadData() {
     var people = [];
     var countries = [];
@@ -353,6 +354,7 @@ function downloadData() {
     });
 }
 
+*/
 function draw() {
     nodes = new vis.DataSet([]);
     edges = new vis.DataSet([]);
