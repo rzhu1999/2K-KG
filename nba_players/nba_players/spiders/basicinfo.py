@@ -29,7 +29,7 @@ class BasicinfoSpider(scrapy.Spider):
                 name = name.strip("\n").strip("\t")
             else:
                 continue
-            overallRating = each.xpath("./td[@class = 'value']/text()").extract_first()
+            overallRating = each.xpath("./td[@class = 'value']/text()").extract_first().strip("\n").strip("\t")
 
             player_link = "http://hoopshype.com" + each.xpath("./td[@class='name']/a/@href").extract_first()
 

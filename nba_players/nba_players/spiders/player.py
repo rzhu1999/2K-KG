@@ -30,17 +30,23 @@ class playerSpider(scrapy.Spider):
         player_obj = NbaPlayerItem()
         #//li[span[contains(text(), 'Director')]]
 
-        full_name = response.xpath("//div[@class = 'player-fullname']/text()").extract_first()
-
-        team = response.xpath("//div[@class = 'player-team']/a/text()")
-        born = 
-
-        player_obj['title'] = title
-        player_obj['directors'] = directors_list
-        player_obj['directors_url'] = directors_urls_list
-        player_obj['plot'] = plot
-        player_obj['actors'] = actor_list
-        print(player_obj)
+        full_name = response.xpath("//div[@class = 'player-fullname']/text()").extract_first().strip("\n").strip("\t")
+        team = response.xpath("//div[@class = 'player-team']/a/text()").strip("\n").strip("\t")
+        position = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[0]
+        born = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[1]
+        height = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[2]
+        weight = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[3]
+        salary = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[4]
+        avatar_link = response.xpath("//div[@class = 'player-headshot']/img/@src").extract_first()
+        player_obj['full_name'] = full_name
+        player_obj['team'] = team
+        player_obj['position'] = position
+        player_obj['born'] = born
+        player_obj['height'] = height
+        player_obj['weight'] = weight
+        player_obj['salary'] = salary
+        player_obj['avatar_link'] = avatar_link
+        
 
         yield player_obj
 
