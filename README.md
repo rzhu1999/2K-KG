@@ -18,9 +18,12 @@ Course Project of DSCI558: Knowledge Graph
 
 3. vis.js -- a front-end graph [visualization](https://visjs.github.io/vis-network/examples/network/nodeStyles/circularImages.html) tool.
 
- <img src="./photo/vis.png" height="80" width="200"/>
+<img src="./photo/vis.png" height="80" width="200"/>
 
-4. A machine learning engine \_\_\_ to allow users make predictions while browsing the knowledge graph.
+4. Apache Jena Fuseki -- a SPARQL server that enables our user to directly query data base.
+
+<img src="./photo/jena.png" height="100" width="200"/>
+
 5. (Optional) Repl.it IDE environment -- to deploy the 2KKG app.
 
 ## To build 2K-KG:

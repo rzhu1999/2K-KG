@@ -105,15 +105,9 @@ function visualise(parent, relation, entity) {
             if (entity.thumbnail != null) {
                 node.image = entity.thumbnail;
                 node.shape = 'circularImage';
-                node.brokenImage = 'https://image.flaticon.com/icons/svg/149/149071.svg';
-            } else if (entity.gender == 'female') {
-                node.image = 'https://image.flaticon.com/icons/svg/201/201634.svg';
-                node.shape = 'circularImage';
-            } else if (entity.gender == 'male') {
-                node.image = 'https://image.flaticon.com/icons/svg/145/145843.svg';
-                node.shape = 'circularImage';
+                node.brokenImage = 'https://www.svgrepo.com/show/357886/image-broken.svg';
             } else {
-                node.image = 'https://image.flaticon.com/icons/svg/149/149071.svg';
+                node.image = 'https://www.svgrepo.com/show/357886/image-broken.svg';
                 node.shape = 'circularImage';
             }
 
