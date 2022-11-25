@@ -108,7 +108,8 @@ function visualize(parent, relation, entity) {
                 node.shape = 'circularImage';
                 node.brokenImage = 'https://www.svgrepo.com/show/357886/image-broken.svg';
             } else {
-                node.image = 'https://www.svgrepo.com/show/357886/image-broken.svg';
+                node.image =
+                    'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png';
                 node.shape = 'circularImage';
             }
 
@@ -172,22 +173,6 @@ function visualize(parent, relation, entity) {
                 from: parent,
                 to: entity._id,
                 label: edgeNames.team,
-                arrows: {
-                    to: true,
-                },
-                color: {
-                    color: '#983131',
-                    hover: '#E74E4E',
-                    highlight: '#E74E4E',
-                },
-            };
-        }
-        if (relation == 'parent') {
-            edge = {
-                id: entity._id + '_parenthood_' + parent,
-                from: entity._id,
-                to: parent,
-                label: edgeNames.parenthood,
                 arrows: {
                     to: true,
                 },
@@ -315,7 +300,7 @@ function getRelated(parent) {
         var query =
             '{ Team(filter: { _id:"' +
             parent +
-            '"}) { _id players {_id _type label birthYear thumbnail label gender team { _id _type label}} }  }';
+            '"}) { _id players {_id _type position salary label birthYear thumbnail label gender team { _id _type label}} }  }';
 
         var client = new HttpClient();
         var body = JSON.stringify({ query: query });
