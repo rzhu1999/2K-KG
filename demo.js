@@ -15,7 +15,7 @@ const config = {
             type: 'mongodb',
             url: `mongodb+srv://rzhu1999:${secrets.mongoDBPassword}@cluster0.bb9jsfr.mongodb.net/?retryWrites=true&w=majority`,
             dbName: '2k-kg-db',
-            collectionName: 'dsci558',
+            collectionName: 'dsci558_nba',
             description: 'MongoDB Atlas instance',
         },
     },

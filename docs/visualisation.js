@@ -8,6 +8,7 @@ const edgeNames = {
     both: 'country of birth & death',
     parenthood: 'parent of',
     marriage: 'spouse of',
+    team: 'plays for',
 };
 
 var instructionText =
@@ -76,7 +77,7 @@ function instruction() {
     }, 1000);
 }
 
-function visualise(parent, relation, entity) {
+function visualize(parent, relation, entity) {
     if (nodes.get(entity._id) == null) {
         var node = {
             id: entity._id,
@@ -129,7 +130,30 @@ function visualise(parent, relation, entity) {
                     '<div style="white-space:pre-wrap;">' + entity.description + '</div><br>';
             }
             node.label = decodeURI(entity.label) + year;
-            node.title = description + '<b>See:</b> ' + getWikipedia(entity._id);
+            node.title =
+                '<b>Position:</b> ' +
+                entity.position +
+                '</br>' +
+                '<b>Salary:</b> ' +
+                entity.salary +
+                '</br>' +
+                'For more information, see: ' +
+                getWikipedia(entity._id);
+        } else if (entity._type[0] == 'Team') {
+            node.size = 60;
+            node.label = entity.label;
+            node.type = 'team';
+            node.mass = 6;
+            node.expanded = false;
+
+            if (entity.thumbnail != null) {
+                node.image = entity.thumbnail;
+                node.shape = 'circularImage';
+                node.brokenImage = 'https://www.pngmart.com/files/22/Nba-Logo-PNG.png';
+            } else {
+                node.image = 'https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png';
+                node.shape = 'circularImage';
+            }
         }
 
         try {
@@ -141,12 +165,13 @@ function visualise(parent, relation, entity) {
 
     if (parent != null && relation != null) {
         var edge = {};
-        if (relation == 'child') {
+
+        if (relation == 'team') {
             edge = {
-                id: parent + '_parenthood_' + entity._id,
+                id: parent + '_playsFor_' + entity._id,
                 from: parent,
                 to: entity._id,
-                label: edgeNames.parenthood,
+                label: edgeNames.team,
                 arrows: {
                     to: true,
                 },
@@ -229,7 +254,7 @@ function visualise(parent, relation, entity) {
             typeof entity[property] === 'object' &&
             entity[property].constructor === Object
         ) {
-            visualise(entity._id, property, entity[property]);
+            visualize(entity._id, property, entity[property]);
         }
 
         if (
@@ -241,7 +266,7 @@ function visualise(parent, relation, entity) {
                 var value = entity[property][i];
 
                 if (value != null && typeof value === 'object' && value.constructor === Object) {
-                    visualise(entity._id, property, value);
+                    visualize(entity._id, property, value);
                 }
             }
         }
@@ -256,10 +281,10 @@ function init(uri) {
         query:
             '{ Person(filter:{_id: "' +
             uri +
-            '"}){ _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } }',
+            '"}){ _id _type label salary position description gender thumbnail birthYear deathYear  team { _id _type label } birthCountry { _id _type label } deathCountry { _id _type label } } }',
     });
     client.post(apiUri + '/graphql', body, function (response) {
-        visualise(null, null, response.data.Person[0]);
+        visualize(null, null, response.data.Person[0]);
         instruction();
     });
 }
@@ -271,16 +296,33 @@ function getRelated(parent) {
         nodes.update({ id: parent, size: 40, expanded: true });
 
         document.getElementById('statement').innerHTML = retrievalText;
-        var query =
-            '{ Person(filter: { _id:"' +
-            parent +
-            '"}) { _id child { _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } parent { _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } spouse { _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } } }';
+        var query = '{ Person(filter: { _id:"' + parent + '"}) { _id salary position team    } }';
 
         var client = new HttpClient();
         var body = JSON.stringify({ query: query });
         client.post(apiUri + '/graphql', body, function (response) {
-            visualise(null, null, response.data.Person[0]);
+            visualize(null, null, response.data.Person[0]);
             instruction();
+            console.log(response);
+        });
+    }
+    if (parentNode.type == 'team' && !parentNode.expanded) {
+        console.log('hi');
+
+        nodes.update({ id: parent, size: 40, expanded: true });
+
+        document.getElementById('statement').innerHTML = retrievalText;
+        var query =
+            '{ Team(filter: { _id:"' +
+            parent +
+            '"}) { _id players {_id _type label birthYear thumbnail label gender team { _id _type label}} }  }';
+
+        var client = new HttpClient();
+        var body = JSON.stringify({ query: query });
+        client.post(apiUri + '/graphql', body, function (response) {
+            visualize(null, null, response.data.Team[0]);
+            instruction();
+            console.log(response);
         });
     }
 }
