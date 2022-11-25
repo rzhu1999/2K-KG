@@ -27,6 +27,10 @@
           rdfs:comment "A team" ;
           rdfs:subClassOf owl:Thing .
 
+      dbo:Coach a rdfs:Class ;
+          rdfs:comment "A coach" ;
+          rdfs:subClassOf owl:Person .
+
       # properties ( -> GraphQL fields )
       rdfs:players a rdf:Property ;
           rdfs:comment "A member of the team players" ;
