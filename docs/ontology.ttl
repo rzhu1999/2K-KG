@@ -7,8 +7,8 @@
       @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
       @prefix dct: <http://purl.org/dc/terms/> .
       @prefix schema: <http://schema.org/> .
-      @prefix example: <http://example.com/> .
-
+      @prefix myns: <http://myfakenamespace.com/> .
+      
 
       # classes (-> GraphQL types )
 
@@ -23,6 +23,10 @@
           rdfs:comment "A person" ;
           rdfs:subClassOf owl:Thing .
 
+      dbo:School a rdfs:Class ;
+          rdfs:comment "A school" ;
+          rdfs:subClassOf owl:Thing .
+
       dbo:Team a rdfs:Class ;
           rdfs:comment "A team" ;
           rdfs:subClassOf owl:Thing .
@@ -32,13 +36,13 @@
           rdfs:subClassOf owl:Person .
 
       # properties ( -> GraphQL fields )
-      rdfs:players a rdf:Property ;
-          rdfs:comment "A member of the team players" ;
+      myns:hasPlayers a rdf:Property ;
+          rdfs:comment "A team has multiple players" ;
           schema:domainIncludes dbo:Team ;
           schema:rangeIncludes dbo:Person .
 
-      dbo:team a rdf:Property ;
-          rdfs:comment "A member of a team" ;
+      myns:playsFor a rdf:Property ;
+          rdfs:comment "A player plays for a team" ;
           schema:domainIncludes dbo:Person ;
           schema:rangeIncludes dbo:Team .
         
@@ -51,7 +55,6 @@
           rdfs:comment "The position of the player inside the team" ;
           schema:domainIncludes owl:Person ;
           schema:rangeIncludes xsd:string .
-
           
       rdfs:label a rdf:Property, owl:FunctionalProperty ;
           rdfs:comment "Name of the entity" ;
