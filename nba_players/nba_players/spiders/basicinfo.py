@@ -13,6 +13,11 @@ class BasicinfoSpider(scrapy.Spider):
     name = 'basicinfo'
     allowed_domains = ['hoopshype.com']
     start_urls = ['http://www.hoopshype.com/nba2k']
+    #custom_settings = {
+    #    'ITEM_PIPELINES': {
+    #        'nba_players.pipelines.playerPipeline':300
+    #    }
+    #}
 
     def parse(self, response):
         players = []

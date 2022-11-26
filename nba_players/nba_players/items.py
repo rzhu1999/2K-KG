@@ -16,12 +16,16 @@ class NbaPlayerItem(scrapy.Item):
     weight = scrapy.Field()
     player_link = scrapy.Field()
     overallRating = scrapy.Field()
-    threesRating = scrapy.Field()
-    dunkRating = scrapy.Field()
+    #threesRating = scrapy.Field()
+    #dunkRating = scrapy.Field()
     avatar_link = scrapy.Field()
     position = scrapy.Field()
     height = scrapy.Field()
     team = scrapy.Field()
+    
+    school= scrapy.Field()
+    nationality = scrapy.Field()
+    
 
     
     pass

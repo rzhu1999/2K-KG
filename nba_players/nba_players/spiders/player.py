@@ -6,14 +6,14 @@ from nba_players.items import NbaPlayerItem
 class playerSpider(scrapy.Spider):
     name = 'player'
     players = []
-    custom_settings = {
-        'ITEM_PIPELINES': {
-            'nba_players.pipelines.playerPipeline':301
-        }
-    }
+    #custom_settings = {
+    #    'ITEM_PIPELINES': {
+    #        'nba_players.pipelines.playerPipeline':301
+    #    }
+    #}
     def start_requests(self):
         urls = []
-        with jsonlines.open("basicinfo.jsonlines", "r") as jsonl_f:
+        with jsonlines.open("/Users/derekshi/Desktop/DSCI558/2K-KG/nba_players/nba_players/spiders/basicinfo.jsonlines", "r") as jsonl_f:
             for content in jsonl_f:
                 urls.append(content["player_link"])
         
@@ -31,7 +31,7 @@ class playerSpider(scrapy.Spider):
         #//li[span[contains(text(), 'Director')]]
 
         full_name = response.xpath("//div[@class = 'player-fullname']/text()").extract_first().strip("\n").strip("\t")
-        team = response.xpath("//div[@class = 'player-team']/a/text()").strip("\n").strip("\t")
+        team = response.xpath("//div[@class = 'player-team']/a/text()").extract_first().strip("\n").strip("\t")
         position = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[0]
         born = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[1]
         height = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[2]
