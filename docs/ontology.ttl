@@ -88,7 +88,7 @@
 
       dbo:thumbnail a rdf:Property, owl:FunctionalProperty ;
           rdfs:comment "Thumbnail URL" ;
-          schema:domainIncludes dbo:Person ;
+          schema:domainIncludes dbo:Thing ;
           schema:rangeIncludes xsd:string .
 
       dbo:birthYear a rdf:Property, owl:FunctionalProperty ;
