@@ -140,9 +140,9 @@ function visualize(parent, relation, entity) {
             node.expanded = false;
 
             if (entity.thumbnail != null) {
+                console.log(entity.thumbnail);
                 node.image = entity.thumbnail;
                 node.shape = 'circularImage';
-                node.brokenImage = 'https://www.pngmart.com/files/22/Nba-Logo-PNG.png';
             } else {
                 node.image = 'https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png';
                 node.shape = 'circularImage';
@@ -211,12 +211,11 @@ function visualize(parent, relation, entity) {
             vertices.sort();
             edge = {
                 id: vertices[0] + '_graduatedFrom_' + vertices[1],
-                from: vertices[1],
-                to: vertices[0],
+                from: vertices[0],
+                to: vertices[1],
                 label: edgeNames.graduatedFrom,
                 arrows: {
-                    from: true,
-                    to: false,
+                    to: true,
                 },
                 color: {
                     color: '#89CFF0',
@@ -289,7 +288,7 @@ function init(uri) {
         query:
             '{ Person(filter:{_id: "' +
             uri +
-            '"}){ _id _type label salary position hasRating description thumbnail birthYear playsFor { _id _type label } graduatedFrom { _id _type label } birthCountry { _id _type label } } }',
+            '"}){ _id _type label salary position hasRating description thumbnail birthYear  } }',
     });
     client.post(apiUri + '/graphql', body, function (response) {
         visualize(null, null, response.data.Person[0]);
@@ -307,7 +306,7 @@ function getRelated(parent) {
         var query =
             '{ Person(filter: { _id:"' +
             parent +
-            '"}) { _id _type salary position hasRating playsFor { _id _type label } graduatedFrom { _id _type label } birthCountry { _id _type label } } }';
+            '"}) { _id _type salary position hasRating playsFor { _id _type label thumbnail } graduatedFrom { _id _type label thumbnail } birthCountry { _id _type label thumbnail } } }';
 
         var client = new HttpClient();
         var body = JSON.stringify({ query: query });
@@ -325,7 +324,7 @@ function getRelated(parent) {
         var query =
             '{ Team(filter: { _id:"' +
             parent +
-            '"}) { _id _type hasPlayers {_id _type position salary hasRating label birthYear thumbnail label playsFor { _id _type label } } }  }';
+            '"}) { _id _type hasPlayers {_id _type position salary hasRating label birthYear thumbnail label playsFor { _id _type label thumbnail } } }  }';
 
         var client = new HttpClient();
         var body = JSON.stringify({ query: query });
