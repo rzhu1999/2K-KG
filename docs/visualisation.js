@@ -6,9 +6,7 @@ const edgeNames = {
     birthCountry: 'country of birth',
     deathCountry: 'country of death',
     both: 'country of birth & death',
-    parenthood: 'parent of',
-    marriage: 'spouse of',
-    team: 'plays for',
+    playsFor: 'plays for',
 };
 
 var instructionText =
@@ -167,12 +165,12 @@ function visualize(parent, relation, entity) {
     if (parent != null && relation != null) {
         var edge = {};
 
-        if (relation == 'team') {
+        if (relation == 'playsFor') {
             edge = {
                 id: parent + '_playsFor_' + entity._id,
                 from: parent,
                 to: entity._id,
-                label: edgeNames.team,
+                label: edgeNames.playsFor,
                 arrows: {
                     to: true,
                 },
@@ -266,7 +264,7 @@ function init(uri) {
         query:
             '{ Person(filter:{_id: "' +
             uri +
-            '"}){ _id _type label salary position description gender thumbnail birthYear deathYear  team { _id _type label } birthCountry { _id _type label } deathCountry { _id _type label } } }',
+            '"}){ _id _type label salary position description gender thumbnail birthYear deathYear playsFor { _id _type label } birthCountry { _id _type label } deathCountry { _id _type label } } }',
     });
     client.post(apiUri + '/graphql', body, function (response) {
         visualize(null, null, response.data.Person[0]);
@@ -281,7 +279,7 @@ function getRelated(parent) {
         nodes.update({ id: parent, size: 40, expanded: true });
 
         document.getElementById('statement').innerHTML = retrievalText;
-        var query = '{ Person(filter: { _id:"' + parent + '"}) { _id salary position team    } }';
+        var query = '{ Person(filter: { _id:"' + parent + '"}) { _id salary position playsFor } }';
 
         var client = new HttpClient();
         var body = JSON.stringify({ query: query });
@@ -300,7 +298,7 @@ function getRelated(parent) {
         var query =
             '{ Team(filter: { _id:"' +
             parent +
-            '"}) { _id players {_id _type position salary label birthYear thumbnail label gender team { _id _type label}} }  }';
+            '"}) { _id hasPlayers {_id _type position salary label birthYear thumbnail label gender playsFor { _id _type label}} }  }';
 
         var client = new HttpClient();
         var body = JSON.stringify({ query: query });
