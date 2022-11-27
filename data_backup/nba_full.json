@@ -886,8 +886,7 @@
         "position": "G-F",
         "thumbnail": "https://cdn.hoopshype.com/i/6f/85/09/luka-doncic.png",
         "hasRating": 96,
-        "birthCountry": ["http://dbpedia.org/resource/Slovenia"],
-        "graduatedFrom": ["http://dbpedia.org/resource/Slovenia_University"]
+        "birthCountry": ["http://dbpedia.org/resource/Slovenia"]
     },
     {
         "_id": "http://dbpedia.org/resource/Ja_Morant",
@@ -4213,8 +4212,7 @@
         "position": "G",
         "thumbnail": "https://cdn.hoopshype.com/i/8e/30/96/goran-dragic.png",
         "hasRating": 76,
-        "birthCountry": ["http://dbpedia.org/resource/Slovenia"],
-        "graduatedFrom": ["http://dbpedia.org/resource/Slovenia_University"]
+        "birthCountry": ["http://dbpedia.org/resource/Slovenia"]
     },
     {
         "_id": "http://dbpedia.org/resource/James_Wiseman",
@@ -5728,8 +5726,7 @@
         "position": "G",
         "thumbnail": "https://cdn.hoopshype.com/i/7e/0d/c7/vlatko-cancar.png",
         "hasRating": 71,
-        "birthCountry": ["http://dbpedia.org/resource/Slovenia"],
-        "graduatedFrom": ["http://dbpedia.org/resource/Slovenia_University"]
+        "birthCountry": ["http://dbpedia.org/resource/Slovenia"]
     },
     {
         "_id": "http://dbpedia.org/resource/Aaron_Nesmith",
@@ -6626,6 +6623,7 @@
         "hasAlumni": [
             "http://dbpedia.org/resource/Giannis_Antetokounmpo",
             "http://dbpedia.org/resource/Nikola_Jokic",
+            "http://dbpedia.org/resource/Luka_Doncic",
             "http://dbpedia.org/resource/Rudy_Gobert",
             "http://dbpedia.org/resource/Josh_Giddey",
             "http://dbpedia.org/resource/Bogdan_Bogdanovic",
@@ -6639,6 +6637,7 @@
             "http://dbpedia.org/resource/Cedi_Osman",
             "http://dbpedia.org/resource/Daniel_Theis",
             "http://dbpedia.org/resource/Maxi_Kleber",
+            "http://dbpedia.org/resource/Goran_Dragic",
             "http://dbpedia.org/resource/Isaiah_Hartenstein",
             "http://dbpedia.org/resource/Willy_Hernangomez",
             "http://dbpedia.org/resource/Furkan_Korkmaz",
@@ -6651,6 +6650,7 @@
             "http://dbpedia.org/resource/Juancho_Hernangomez",
             "http://dbpedia.org/resource/Ousmane_Dieng",
             "http://dbpedia.org/resource/Nikola_Jovic",
+            "http://dbpedia.org/resource/Vlatko_Cancar",
             "http://dbpedia.org/resource/Marko_Simonovi\u0107",
             "http://dbpedia.org/resource/Vit_Krejci",
             "http://dbpedia.org/resource/Jock_Landale",
@@ -6744,16 +6744,6 @@
             "http://dbpedia.org/resource/Trae_Young",
             "http://dbpedia.org/resource/Buddy_Hield",
             "http://dbpedia.org/resource/Austin_Reaves"
-        ]
-    },
-    {
-        "_id": "http://dbpedia.org/resource/Slovenia_University",
-        "_type": "School",
-        "label": "Slovenia University",
-        "hasAlumni": [
-            "http://dbpedia.org/resource/Luka_Doncic",
-            "http://dbpedia.org/resource/Goran_Dragic",
-            "http://dbpedia.org/resource/Vlatko_Cancar"
         ]
     },
     {
