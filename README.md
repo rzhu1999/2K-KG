@@ -2,7 +2,7 @@
 
 Course Project of DSCI558: Knowledge Graph
 
-<img src="./photo/welcome.png" height="450" width="800"/>
+<img src="./photo/welcome.png" height="450" width="850"/>
 
 ## Overview
 
