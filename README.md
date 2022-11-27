@@ -6,25 +6,27 @@ Course Project of DSCI558: Knowledge Graph
 
 ## Overview
 
-2KKG is a simple knowledge graph applications using \_\_\_ data managed entirely via a GraphQL layer called Staple API. It involves:
+2KKG is a simple knowledge graph applications using JSON data managed entirely via a GraphQL layer called Staple API. It involves:
 
-1. \_\_\_ data (from 2KDB, NBA Official, Wikipedia) stored in a free-tire MongoDB Atlas instance.
+1. JSON & CSV data (from 2KDB, NBA Official, Wikipedia, \_\_\_\_) stored in a free-tire MongoDB Atlas instance.
 
 <img src="./photo/2kdb.png" height="100" width="200"/> <img src="./photo/mongo.png" height="100" width="200"/>
 
 2. Staple API -- a lightweight GraphQL-based API for managing knowledge graphs on top of different data storage back-ends.
 
-<img src="./photo/staple.png" height="100" width="200"/> <img src="./photo/graphql.png" height="100" width="200"/>
+<img src="./photo/staple.png" height="100" width="200"/>
 
 3. vis.js -- a front-end graph [visualization](https://visjs.github.io/vis-network/examples/network/nodeStyles/circularImages.html) tool.
 
 <img src="./photo/vis.png" height="80" width="200"/>
 
-4. Apache Jena Fuseki -- a SPARQL server that enables our user to directly query data base.
+4. A query engine that enables our user to directly query data base using Graphql.
 
-<img src="./photo/jena.png" height="100" width="200"/>
+<img src="./photo/graphql.png" height="100" width="200"/>
 
-5. (Optional) Repl.it IDE environment -- to deploy the 2KKG app.
+5. Repl.it IDE environment -- to deploy the 2KKG app (optional).
+
+<img src="./photo/repl.png" height="100" width="200"/>
 
 ## To build 2K-KG:
 
@@ -49,9 +51,9 @@ Course Project of DSCI558: Knowledge Graph
 
     Warning: if run first time, need to `npm dedupe` when saw error _"Error: Cannot use GraphQLSchema "[object GraphQLSchema]" from another module or realm."_ then `node demo.js` again.
 
-## To set up Apache Jena Fuseki (Sparql Query Engine)
+## To visit Graphql Query Engine
 
-`./apache-jena-fuseki-4.6.1/fuseki-server --file=./data.nt --localhost /ds `
+simply add /graphql at the end of your local server address
 
 ### Deployment
 
