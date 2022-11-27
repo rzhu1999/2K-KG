@@ -1,29 +1,41 @@
-body{        
+body {
     padding-top: 54px;
     padding-bottom: 40px;
 }
-html, body {
+html,
+body {
     font: 11pt arial;
-    background-color: #333333;
+    background-image: url('./bg.jpg');
+    background-size: cover;
 }
-.fixed-header, .fixed-footer{
+
+.fixed-footer {
     width: 100%;
-    position: fixed;        
+    position: fixed;
     background-color: #111111;
     margin-left: -8px;
     padding: 11px;
     color: #fff;
 }
-.fixed-header{
+.fixed-header {
+    width: 100%;
+    position: fixed;
+    background-image: url('./2k.jpeg');
+    background-size: cover;
+    background-position: center center;
+
+    margin-left: -8px;
+    padding: 11px;
     top: 0;
     min-width: 950px;
-    height: 40px;
+    padding-bottom: 8%;
 }
-.fixed-footer{
+
+.fixed-footer {
     bottom: 0;
-}    
+}
 a {
-    color: lightseagreen
+    color: lightcoral;
 }
 #statement {
     height: 80%;
@@ -33,23 +45,23 @@ a {
     max-width: 440px;
     float: right;
     background-color: #111111;
-    color: #BBBBBB;
+    color: #bbbbbb;
     outline: none;
 }
-#network {      
+#network {
     width: 99%;
     height: 100%;
     margin-left: 0.5%;
-    outline: none
+    outline: none;
 }
 #statement2 {
-    color: #BBBBBB;
+    color: #bbbbbb;
 }
 #frame {
-    width: 280px; 
+    width: 280px;
     height: 27px;
     overflow: hidden;
-    border: 2px solid lightseagreen;
+    border: 2px solid lightcoral;
     border-radius: 10px 10px 10px 10px;
     margin-left: 10px;
     margin-top: 4px;
@@ -59,11 +71,11 @@ a {
     margin-left: -1px;
     margin-top: -2px;
     width: 282px;
-    height: 29px;
-  }
+    height: 50px;
+}
 button {
     border: 3px black;
-    background-color: lightseagreen;
+    background-color: lightcoral;
     border-radius: 10px 10px 10px 10px;
     font-size: 14px;
     height: 31px;
@@ -82,26 +94,34 @@ button {
 }
 .loader {
     position: fixed;
-    border: 16px solid lightseagreen;
+    border: 16px solid lightcoral;
     border-radius: 50%;
-    border-top: 16px solid #111111 ;
+    border-top: 16px solid #111111;
     width: 10vh;
     height: 10vh;
     top: 50%;
     left: 50%;
     margin-top: -5vh; /* Negative half of height. */
-    margin-left: -5vh; 
+    margin-left: -5vh;
     -webkit-animation: spin 2s linear infinite; /* Safari */
     animation: spin 2s linear infinite;
-  }
-  
-  /* Safari */
-  @-webkit-keyframes spin {
-    0% { -webkit-transform: rotate(0deg); }
-    100% { -webkit-transform: rotate(360deg); }
-  }
-  
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

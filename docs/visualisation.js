@@ -4,10 +4,9 @@ var nodes, edges, network;
 
 const edgeNames = {
     birthCountry: 'country of birth',
-    deathCountry: 'country of death',
-    both: 'country of birth & death',
-    parenthood: 'parent of',
-    marriage: 'spouse of',
+    playsFor: 'plays for',
+    coachesAt: 'coaches at',
+    graduatedFrom: 'graduated from',
 };
 
 var instructionText =
@@ -76,7 +75,7 @@ function instruction() {
     }, 1000);
 }
 
-function visualise(parent, relation, entity) {
+function visualize(parent, relation, entity) {
     if (nodes.get(entity._id) == null) {
         var node = {
             id: entity._id,
@@ -105,28 +104,11 @@ function visualise(parent, relation, entity) {
             if (entity.thumbnail != null) {
                 node.image = entity.thumbnail;
                 node.shape = 'circularImage';
-                node.brokenImage = 'https://image.flaticon.com/icons/svg/149/149071.svg';
-            } else if (entity.gender == 'female') {
-                node.image = 'https://image.flaticon.com/icons/svg/201/201634.svg';
-                node.shape = 'circularImage';
-            } else if (entity.gender == 'male') {
-                node.image = 'https://image.flaticon.com/icons/svg/145/145843.svg';
-                node.shape = 'circularImage';
+                node.brokenImage = 'https://www.svgrepo.com/show/357886/image-broken.svg';
             } else {
-                node.image = 'https://image.flaticon.com/icons/svg/149/149071.svg';
+                node.image =
+                    'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png';
                 node.shape = 'circularImage';
-            }
-
-            var year = '';
-            if (entity.birthYear != null || entity.deathYear != null) {
-                year = '\n';
-                if (entity.birthYear != null) {
-                    year = year + String(entity.birthYear);
-                }
-                year = year + ' - ';
-                if (entity.deathYear != null) {
-                    year = year + String(entity.deathYear);
-                }
             }
 
             var description = '';
@@ -134,8 +116,52 @@ function visualise(parent, relation, entity) {
                 description =
                     '<div style="white-space:pre-wrap;">' + entity.description + '</div><br>';
             }
-            node.label = decodeURI(entity.label) + year;
-            node.title = description + '<b>See:</b> ' + getWikipedia(entity._id);
+            node.label = decodeURI(entity.label) + ' (' + entity.position + ')';
+            node.title =
+                '<b>2K Rating:</b>' +
+                String(entity.hasRating) +
+                '</br>' +
+                '<b>Age:</b> ' +
+                String(2022 - entity.birthYear) +
+                '</br>' +
+                '<b>Position:</b> ' +
+                entity.position +
+                '</br>' +
+                '<b>Salary:</b> ' +
+                entity.salary +
+                '</br>' +
+                'For more information, see: ' +
+                getWikipedia(entity._id);
+        } else if (entity._type[0] == 'Team') {
+            node.size = 60;
+            node.label = entity.label;
+            node.type = 'team';
+            node.mass = 6;
+            node.expanded = false;
+
+            if (entity.thumbnail != null) {
+                console.log(entity.thumbnail);
+                node.image = entity.thumbnail;
+                node.shape = 'circularImage';
+            } else {
+                node.image = 'https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png';
+                node.shape = 'circularImage';
+            }
+        } else if (entity._type[0] == 'School') {
+            node.size = 60;
+            node.label = entity.label;
+            node.type = 'school';
+            node.mass = 6;
+            node.expanded = false;
+
+            if (entity.thumbnail != null) {
+                node.image = entity.thumbnail;
+                node.shape = 'circularImage';
+                node.brokenImage = 'https://www.pngmart.com/files/22/Nba-Logo-PNG.png';
+            } else {
+                node.image = 'https://krishnapanchal94.github.io/Portfolio/img/project/school.png';
+                node.shape = 'circularImage';
+            }
         }
 
         try {
@@ -147,12 +173,13 @@ function visualise(parent, relation, entity) {
 
     if (parent != null && relation != null) {
         var edge = {};
-        if (relation == 'child') {
+
+        if (relation == 'playsFor') {
             edge = {
-                id: parent + '_parenthood_' + entity._id,
+                id: parent + '_playsFor_' + entity._id,
                 from: parent,
                 to: entity._id,
-                label: edgeNames.parenthood,
+                label: edgeNames.playsFor,
                 arrows: {
                     to: true,
                 },
@@ -163,32 +190,13 @@ function visualise(parent, relation, entity) {
                 },
             };
         }
-        if (relation == 'parent') {
+        if (relation == 'coachesAt') {
             edge = {
-                id: entity._id + '_parenthood_' + parent,
-                from: entity._id,
-                to: parent,
-                label: edgeNames.parenthood,
+                id: parent + '_coachesAt_' + entity._id,
+                from: parent,
+                to: entity._id,
+                label: edgeNames.coachesAt,
                 arrows: {
-                    to: true,
-                },
-                color: {
-                    color: '#983131',
-                    hover: '#E74E4E',
-                    highlight: '#E74E4E',
-                },
-            };
-        }
-        if (relation == 'spouse') {
-            var vertices = [entity._id, parent];
-            vertices.sort();
-            edge = {
-                id: vertices[0] + '_marriage_' + vertices[1],
-                from: vertices[0],
-                to: vertices[1],
-                label: edgeNames.marriage,
-                arrows: {
-                    from: true,
                     to: true,
                 },
                 color: {
@@ -198,7 +206,25 @@ function visualise(parent, relation, entity) {
                 },
             };
         }
-        if (relation == 'birthCountry' || relation == 'deathCountry') {
+        if (relation == 'graduatedFrom') {
+            var vertices = [entity._id, parent];
+            vertices.sort();
+            edge = {
+                id: vertices[0] + '_graduatedFrom_' + vertices[1],
+                from: vertices[0],
+                to: vertices[1],
+                label: edgeNames.graduatedFrom,
+                arrows: {
+                    to: true,
+                },
+                color: {
+                    color: '#89CFF0',
+                    hover: '#0000FF',
+                    highlight: '#0000FF',
+                },
+            };
+        }
+        if (relation == 'birthCountry') {
             var edgeId = parent + '_country_' + entity._id;
             if (edges.get(edgeId) != null && edges.get(edgeId).rels.indexOf(relation) == -1) {
                 edges.update([{ id: edgeId, label: edgeNames.both }]);
@@ -235,7 +261,7 @@ function visualise(parent, relation, entity) {
             typeof entity[property] === 'object' &&
             entity[property].constructor === Object
         ) {
-            visualise(entity._id, property, entity[property]);
+            visualize(entity._id, property, entity[property]);
         }
 
         if (
@@ -247,7 +273,7 @@ function visualise(parent, relation, entity) {
                 var value = entity[property][i];
 
                 if (value != null && typeof value === 'object' && value.constructor === Object) {
-                    visualise(entity._id, property, value);
+                    visualize(entity._id, property, value);
                 }
             }
         }
@@ -262,10 +288,10 @@ function init(uri) {
         query:
             '{ Person(filter:{_id: "' +
             uri +
-            '"}){ _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } }',
+            '"}){ _id _type label salary position hasRating description thumbnail birthYear  } }',
     });
     client.post(apiUri + '/graphql', body, function (response) {
-        visualise(null, null, response.data.Person[0]);
+        visualize(null, null, response.data.Person[0]);
         instruction();
     });
 }
@@ -280,77 +306,51 @@ function getRelated(parent) {
         var query =
             '{ Person(filter: { _id:"' +
             parent +
-            '"}) { _id child { _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } parent { _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } spouse { _id _type label description gender thumbnail birthYear deathYear birthCountry { _id _type label } deathCountry { _id _type label } } } }';
+            '"}) { _id _type salary position hasRating playsFor { _id _type label thumbnail } graduatedFrom { _id _type label thumbnail } birthCountry { _id _type label thumbnail } } }';
 
         var client = new HttpClient();
         var body = JSON.stringify({ query: query });
         client.post(apiUri + '/graphql', body, function (response) {
-            visualise(null, null, response.data.Person[0]);
+            console.log(response.data.Person[0]);
+
+            visualize(null, null, response.data.Person[0]);
             instruction();
         });
     }
-}
+    if (parentNode.type == 'team' && !parentNode.expanded) {
+        nodes.update({ id: parent, size: 40, expanded: true });
 
-function downloadData() {
-    var people = [];
-    var countries = [];
+        document.getElementById('statement').innerHTML = retrievalText;
+        var query =
+            '{ Team(filter: { _id:"' +
+            parent +
+            '"}) { _id _type hasPlayers {_id _type position salary hasRating label birthYear thumbnail label playsFor { _id _type label thumbnail } } }  }';
 
-    for (uri in nodes._data) {
-        var item = nodes._data[uri];
-        if (item.type === 'person') {
-            people.push(item.id);
-        }
-        if (item.type === 'country') {
-            countries.push(item.id);
-        }
+        var client = new HttpClient();
+        var body = JSON.stringify({ query: query });
+        client.post(apiUri + '/graphql', body, function (response) {
+            visualize(null, null, response.data.Team[0]);
+            instruction();
+            console.log(response);
+        });
     }
+    if (parentNode.type == 'school' && !parentNode.expanded) {
+        nodes.update({ id: parent, size: 40, expanded: true });
 
-    var query =
-        '{ _CONTEXT { _id _type Person Country label description gender thumbnail birthYear deathYear birthCountry deathCountry } Person(filter:{_id: [' +
-        people.map(function (item) {
-            return '"' + item + '"';
-        }) +
-        ']}){ _id _type label description gender thumbnail birthYear deathYear parent { _id } child { _id } spouse { _id } birthCountry { _id } deathCountry { _id } } Country(filter:{_id: [' +
-        countries.map(function (item) {
-            return '"' + item + '"';
-        }) +
-        ']}) { _id _type label } } ';
+        document.getElementById('statement').innerHTML = retrievalText;
+        var query =
+            '{ School(filter: { _id:"' +
+            parent +
+            '"}) { _id hasAlumni  {_id _type position salary hasRating label birthYear thumbnail label graduatedFrom { _id _type label } } }  }';
 
-    var client = new HttpClient();
-    var body = JSON.stringify({ query: query });
-    client.post(apiUri + '/graphql', body, function (response) {
-        let peopleKeys = ['parent', 'child', 'spouse'];
-        let countriesKeys = ['birthCountry', 'deathCountry'];
-        for (var y in response.data.Person) {
-            for (var x in peopleKeys) {
-                response.data.Person[y][peopleKeys[x]] = response.data.Person[y][
-                    peopleKeys[x]
-                ].filter(function (item) {
-                    return people.indexOf(item._id) > -1;
-                });
-            }
-            for (var x in countriesKeys) {
-                response.data.Person[y][countriesKeys[x]] = response.data.Person[y][
-                    countriesKeys[x]
-                ].filter(function (item) {
-                    return countries.indexOf(item._id) > -1;
-                });
-            }
-        }
-
-        result = {
-            '@context': response.data._CONTEXT,
-            '@id': '@graph',
-            Person: response.data.Person,
-            Country: response.data.Country,
-        };
-
-        var dataStr = 'data:text/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(result));
-        var dlAnchorElem = document.getElementById('downloadAnchorElem');
-        dlAnchorElem.setAttribute('href', dataStr);
-        dlAnchorElem.setAttribute('download', 'data.json');
-        dlAnchorElem.click();
-    });
+        var client = new HttpClient();
+        var body = JSON.stringify({ query: query });
+        client.post(apiUri + '/graphql', body, function (response) {
+            visualize(null, null, response.data.School[0]);
+            instruction();
+            console.log(response);
+        });
+    }
 }
 
 function draw() {

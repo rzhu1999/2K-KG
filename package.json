@@ -20,7 +20,7 @@
         "staple-api": "^1.0.24"
     },
     "keywords": [],
-    "author": "",
+    "author": "Rui Zhu",
     "homepage": "https://github.com/rzhu1999/2K-KG#README.md",
     "postinstall": "rm -r node_modules/apollo-language-server/node_modules/graphql"
 }
