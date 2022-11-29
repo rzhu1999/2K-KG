@@ -38,6 +38,7 @@ class BasicinfoSpider(scrapy.Spider):
 
             player_link = "http://hoopshype.com" + each.xpath("./td[@class='name']/a/@href").extract_first()
 
+            player_obj['full_name'] = name
             player_obj['overallRating'] = overallRating
             player_obj["player_link"] = player_link
             players.append(player_obj)       
