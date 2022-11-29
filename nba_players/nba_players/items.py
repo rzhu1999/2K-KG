@@ -23,7 +23,9 @@ class NbaPlayerItem(scrapy.Item):
     height = scrapy.Field()
     team = scrapy.Field()
     
-    school= scrapy.Field()
+    college= scrapy.Field()
+    hometown = scrapy.Field()
+    highschool = scrapy.Field()
     nationality = scrapy.Field()
     
 

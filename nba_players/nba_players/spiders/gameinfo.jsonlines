@@ -1,438 +1,457 @@
-{"full_name": " Giannis Antetokounmpo", "overallRating": "97", "nationality": " Greece", "school": " Greece"}
-{"full_name": " Jayson Tatum", "overallRating": "95", "nationality": " United States", "school": " Duke"}
-{"full_name": " Kawhi Leonard", "overallRating": "95", "nationality": " United States", "school": " San Diego State"}
-{"full_name": " Joel Embiid", "overallRating": "96", "nationality": " Cameroon", "school": " Kansas"}
-{"full_name": " Jimmy Butler", "overallRating": "93", "nationality": " United States", "school": " Marquette"}
-{"full_name": " LeBron James", "overallRating": "96", "nationality": " United States", "school": " St. Vincent\u2013St. Mary High School"}
-{"full_name": " Ja Morant", "overallRating": "94", "nationality": " United States", "school": " Murray State"}
-{"full_name": " Nikola Jokic", "overallRating": "96", "nationality": " Serbia", "school": " Serbia"}
-{"full_name": " Trae Young", "overallRating": "89", "nationality": " United States", "school": " Oklahoma"}
-{"full_name": " Luka Doncic", "overallRating": "96", "nationality": " Slovenia", "school": " Slovenia"}
-{"full_name": " James Harden", "overallRating": "89", "nationality": " United States", "school": " Arizona State"}
-{"full_name": " Devin Booker", "overallRating": "91", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Kevin Durant", "overallRating": "96", "nationality": " United States", "school": " Texas"}
-{"full_name": " Anthony Davis", "overallRating": "91", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Chris Paul", "overallRating": "89", "nationality": " United States", "school": " Wake Forest"}
-{"full_name": " Kyrie Irving", "overallRating": "89", "nationality": " United States", "school": " Duke"}
-{"full_name": " DeMar DeRozan", "overallRating": "88", "nationality": " United States", "school": " Southern California"}
-{"full_name": " Stephen Curry", "overallRating": "97", "nationality": " United States", "school": " Davidson"}
-{"full_name": " Zach LaVine", "overallRating": "87", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Donovan Mitchell", "overallRating": "91", "nationality": " United States", "school": " Louisville"}
-{"full_name": " Karl-Anthony Towns", "overallRating": "87", "nationality": " Dominican Republic", "school": " Kentucky"}
-{"full_name": " Rudy Gobert", "overallRating": "86", "nationality": " France", "school": " France"}
-{"full_name": " Bam Adebayo", "overallRating": "86", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Damian Lillard", "overallRating": "90", "nationality": " United States", "school": " Weber State"}
-{"full_name": " Paul George", "overallRating": "89", "nationality": " United States", "school": " Fresno State"}
-{"full_name": " Jaylen Brown", "overallRating": "88", "nationality": " United States", "school": " California"}
-{"full_name": " LaMelo Ball", "overallRating": "87", "nationality": " United States", "school": " Illawarra Hawks (Australia)"}
-{"full_name": " Darius Garland", "overallRating": "87", "nationality": " United States", "school": " Vanderbilt"}
-{"full_name": " Jrue Holiday", "overallRating": "86", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Zion Williamson", "overallRating": "88", "nationality": " United States", "school": " Duke"}
-{"full_name": " Bradley Beal", "overallRating": "87", "nationality": " United States", "school": " Florida"}
-{"full_name": " Shai Gilgeous-Alexander", "overallRating": "90", "nationality": " Canada", "school": " Kentucky"}
-{"full_name": " Jarrett Allen", "overallRating": "84", "nationality": " United States", "school": " Texas"}
-{"full_name": " Brandon Ingram", "overallRating": "86", "nationality": " United States", "school": " Duke"}
-{"full_name": " Dejounte Murray", "overallRating": "86", "nationality": " United States", "school": " Washington"}
-{"full_name": " Khris Middleton", "overallRating": "86", "nationality": " United States", "school": " Texas A&M"}
-{"full_name": " Tyrese Maxey", "overallRating": "86", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Pascal Siakam", "overallRating": "88", "nationality": " Cameroon", "school": " New Mexico State"}
-{"full_name": " Anthony Edwards", "overallRating": "85", "nationality": " United States", "school": " Georgia"}
-{"full_name": " Domantas Sabonis", "overallRating": "86", "nationality": " Lithuania", "school": " Gonzaga"}
-{"full_name": " Deandre Ayton", "overallRating": "83", "nationality": " Bahamas", "school": " Arizona"}
-{"full_name": " C.J. McCollum", "overallRating": "84", "nationality": " United States", "school": " Lehigh"}
-{"full_name": " Kristaps Porzingis", "overallRating": "85", "nationality": " Latvia", "school": " Latvia"}
-{"full_name": " Evan Mobley", "overallRating": "84", "nationality": " United States", "school": " USC"}
-{"full_name": " Clint Capela", "overallRating": "81", "nationality": " Switzerland", "school": " Switzerland"}
-{"full_name": " De\u2019Aaron Fox", "overallRating": "87", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Tyler Herro", "overallRating": "84", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Christian Wood", "overallRating": "84", "nationality": " United States", "school": " UNLV"}
-{"full_name": " R.J. Barrett", "overallRating": "83", "nationality": " Canada", "school": " Duke"}
-{"full_name": " Tyrese Haliburton", "overallRating": "87", "nationality": " United States", "school": " Iowa State"}
-{"full_name": " Jamal Murray", "overallRating": "81", "nationality": " Canada", "school": " Kentucky"}
-{"full_name": " Andrew Wiggins", "overallRating": "84", "nationality": " Canada", "school": " Kansas"}
-{"full_name": " Cade Cunningham", "overallRating": "84", "nationality": " United States", "school": " Oklahoma State"}
-{"full_name": " Fred VanVleet", "overallRating": "84", "nationality": " United States", "school": " Wichita State"}
-{"full_name": " Nikola Vucevic", "overallRating": "82", "nationality": " Montenegro", "school": " Southern California"}
-{"full_name": " Scottie Barnes", "overallRating": "84", "nationality": " United States", "school": " Florida State"}
-{"full_name": " Desmond Bane", "overallRating": "86", "nationality": " United States", "school": " Texas Christian"}
-{"full_name": " John Collins", "overallRating": "81", "nationality": " United States", "school": " Wake Forest"}
-{"full_name": " Robert Williams III", "overallRating": "85", "nationality": " United States", "school": " Texas A&M"}
-{"full_name": " Mikal Bridges", "overallRating": "84", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Jordan Poole", "overallRating": "83", "nationality": " United States", "school": " Michigan"}
-{"full_name": " Klay Thompson", "overallRating": "83", "nationality": " United States", "school": " Washington State"}
-{"full_name": " Tobias Harris", "overallRating": "82", "nationality": " United States", "school": " Tennessee"}
-{"full_name": " Jonas Valanciunas", "overallRating": "83", "nationality": " Lithuania", "school": " Lithuania"}
-{"full_name": " Jalen Brunson", "overallRating": "85", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Marcus Smart", "overallRating": "82", "nationality": " United States", "school": " Oklahoma State"}
-{"full_name": " Malcolm Brogdon", "overallRating": "82", "nationality": " United States", "school": " Virginia"}
-{"full_name": " Lonzo Ball", "overallRating": "82", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Draymond Green", "overallRating": "83", "nationality": " United States", "school": " Michigan State"}
-{"full_name": " Al Horford", "overallRating": "81", "nationality": " Dominican Republic", "school": " Florida"}
-{"full_name": " Steven Adams", "overallRating": "80", "nationality": " New Zealand", "school": " Pittsburgh"}
-{"full_name": " Kyle Lowry", "overallRating": "81", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Terry Rozier III", "overallRating": "80", "nationality": " United States", "school": " Louisville"}
-{"full_name": " Julius Randle", "overallRating": "83", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Myles Turner", "overallRating": "83", "nationality": " United States", "school": " Texas"}
-{"full_name": " Jalen Green", "overallRating": "84", "nationality": " United States", "school": " G League Ignite"}
-{"full_name": " Mike Conley", "overallRating": "81", "nationality": " United States", "school": " Ohio State"}
-{"full_name": " Ben Simmons", "overallRating": "78", "nationality": " Australia", "school": " LSU"}
-{"full_name": " Josh Giddey", "overallRating": "82", "nationality": " Australia", "school": " Australia"}
-{"full_name": " Jusuf Nurkic", "overallRating": "82", "nationality": " Bosnia & Herzegovina", "school": " Bosnia and Herzegovina"}
-{"full_name": " Keldon Johnson", "overallRating": "84", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " D\u2019Angelo Russell", "overallRating": "82", "nationality": " United States", "school": " Ohio State"}
-{"full_name": " Mitchell Robinson", "overallRating": "81", "nationality": " United States", "school": " Chalmette HS (LA)"}
-{"full_name": " Jerami Grant", "overallRating": "82", "nationality": " United States", "school": " Syracuse"}
-{"full_name": " OG Anunoby", "overallRating": "83", "nationality": " United Kingdom", "school": " Indiana"}
-{"full_name": " Derrick Rose", "overallRating": "79", "nationality": " United States", "school": " Memphis"}
-{"full_name": " Wendell Carter Jr.", "overallRating": "81", "nationality": " United States", "school": " Duke"}
-{"full_name": " Kyle Kuzma", "overallRating": "81", "nationality": " United States", "school": " Utah"}
-{"full_name": " Kevin Love", "overallRating": "81", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Norman Powell", "overallRating": "76", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Bobby Portis", "overallRating": "81", "nationality": " United States", "school": " Arkansas"}
-{"full_name": " Brook Lopez", "overallRating": "81", "nationality": " United States", "school": " Stanford"}
-{"full_name": " Bojan Bogdanovic", "overallRating": "82", "nationality": " Croatia", "school": " Croatia"}
-{"full_name": " Harrison Barnes", "overallRating": "78", "nationality": " United States", "school": " UNC"}
-{"full_name": " Franz Wagner", "overallRating": "81", "nationality": " Germany", "school": " Michigan"}
-{"full_name": " Bogdan Bogdanovic", "overallRating": "80", "nationality": " Serbia", "school": " Serbia"}
-{"full_name": " Anfernee Simons", "overallRating": "80", "nationality": " United States", "school": " IMG Academy (FL)"}
-{"full_name": " Gordon Hayward", "overallRating": "80", "nationality": " United States", "school": " Butler"}
-{"full_name": " Dillon Brooks", "overallRating": "79", "nationality": " Canada", "school": " Oregon"}
-{"full_name": " Spencer Dinwiddie", "overallRating": "82", "nationality": " United States", "school": " Colorado"}
-{"full_name": " Cameron Johnson", "overallRating": "80", "nationality": " United States", "school": " North Carolina"}
-{"full_name": " Saddiq Bey", "overallRating": "80", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Andre Drummond", "overallRating": "79", "nationality": " United States", "school": " Connecticut"}
-{"full_name": " Aaron Gordon", "overallRating": "80", "nationality": " United States", "school": " Arizona"}
-{"full_name": " T.J. Warren", "overallRating": "79", "nationality": " United States", "school": " North Carolina State"}
-{"full_name": " Josh Hart", "overallRating": "78", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Derrick White", "overallRating": "77", "nationality": " United States", "school": " Colorado"}
-{"full_name": " Kelly Oubre Jr.", "overallRating": "78", "nationality": " United States", "school": " Kansas"}
-{"full_name": " Caris LeVert", "overallRating": "78", "nationality": " United States", "school": " Michigan"}
-{"full_name": " Ricky Rubio", "overallRating": "78", "nationality": " Spain", "school": " Spain"}
-{"full_name": " Monte Morris", "overallRating": "78", "nationality": " United States", "school": " Iowa State"}
-{"full_name": " Michael Porter Jr.", "overallRating": "82", "nationality": " United States", "school": " Missouri"}
-{"full_name": " Jarred Vanderbilt", "overallRating": "80", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Danilo Gallinari", "overallRating": "78", "nationality": " Italy", "school": " Italy"}
-{"full_name": " Collin Sexton", "overallRating": "80", "nationality": " United States", "school": " Alabama"}
-{"full_name": " John Wall", "overallRating": "79", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " P.J. Washington", "overallRating": "77", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Victor Oladipo", "overallRating": "78", "nationality": " United States", "school": " Indiana"}
-{"full_name": " Patrick Beverley", "overallRating": "77", "nationality": " United States", "school": " Arkansas"}
-{"full_name": " Russell Westbrook", "overallRating": "79", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Lauri Markkanen", "overallRating": "85", "nationality": " Finland", "school": " Arizona"}
-{"full_name": " Paolo Banchero", "overallRating": "83", "nationality": " United States", "school": " Duke"}
-{"full_name": " Cole Anthony", "overallRating": "78", "nationality": " United States", "school": " North Carolina Tar Heels"}
-{"full_name": " Jonathan Isaac", "overallRating": "78", "nationality": " United States", "school": " Florida State"}
-{"full_name": " Jonathan Kuminga", "overallRating": "74", "nationality": " DR Congo", "school": " G League Ignite"}
-{"full_name": " Buddy Hield", "overallRating": "80", "nationality": " Bahamas", "school": " Oklahoma"}
-{"full_name": " Dorian Finney-Smith", "overallRating": "77", "nationality": " United States", "school": " Florida"}
-{"full_name": " Jakob Poeltl", "overallRating": "79", "nationality": " Austria", "school": " Utah"}
-{"full_name": " Jabari Smith Jr.", "overallRating": "75", "nationality": " United States", "school": " Auburn"}
-{"full_name": " P.J. Tucker", "overallRating": "76", "nationality": " United States", "school": " Texas"}
-{"full_name": " Seth Curry", "overallRating": "78", "nationality": " United States", "school": " Duke"}
-{"full_name": " Matisse Thybulle", "overallRating": "75", "nationality": " United States", "school": " Washington"}
-{"full_name": " Grant Williams", "overallRating": "78", "nationality": " United States", "school": " Tennessee"}
-{"full_name": " De\u2019Anthony Melton", "overallRating": "78", "nationality": " United States", "school": " Southern California"}
-{"full_name": " Alex Caruso", "overallRating": "76", "nationality": " United States", "school": " Texas A&M"}
-{"full_name": " Ivica Zubac", "overallRating": "77", "nationality": " Croatia", "school": " Croatia"}
-{"full_name": " Reggie Jackson", "overallRating": "75", "nationality": " United States", "school": " Boston College"}
-{"full_name": " Tyus Jones", "overallRating": "77", "nationality": " United States", "school": " Duke"}
-{"full_name": " Immanuel Quickley", "overallRating": "77", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Jordan Clarkson", "overallRating": "80", "nationality": " United States", "school": " Missouri"}
-{"full_name": " Davion Mitchell", "overallRating": "75", "nationality": " United States", "school": " Baylor"}
-{"full_name": " Markelle Fultz", "overallRating": "77", "nationality": " United States", "school": " Washington"}
-{"full_name": " JaVale McGee", "overallRating": "76", "nationality": " United States", "school": " Nevada"}
-{"full_name": " Jae\u2019Sean Tate", "overallRating": "77", "nationality": " United States", "school": " Ohio State"}
-{"full_name": " Chris Duarte", "overallRating": "76", "nationality": " Canada", "school": " Oregon"}
-{"full_name": " Alperen Sengun", "overallRating": "80", "nationality": " Turkey", "school": " Turkey"}
-{"full_name": " Luguentz Dort", "overallRating": "78", "nationality": " Canada", "school": " Arizona State"}
-{"full_name": " Marcus Morris Sr.", "overallRating": "78", "nationality": " United States", "school": " Kansas"}
-{"full_name": " Will Barton", "overallRating": "76", "nationality": " United States", "school": " Memphis"}
-{"full_name": " Chet Holmgren", "overallRating": "77", "nationality": " United States", "school": " Gonzaga"}
-{"full_name": " Pat Connaughton", "overallRating": "76", "nationality": " United States", "school": " Notre Dame"}
-{"full_name": " Joe Ingles", "overallRating": "76", "nationality": " Australia", "school": " Australia"}
-{"full_name": " Daniel Gafford", "overallRating": "77", "nationality": " United States", "school": " Arkansas"}
-{"full_name": " Nicolas Batum", "overallRating": "74", "nationality": " France", "school": " France"}
-{"full_name": " Coby White", "overallRating": "75", "nationality": " United States", "school": " North Carolina"}
-{"full_name": " Payton Pritchard", "overallRating": "75", "nationality": " United States", "school": " Oregon Ducks"}
-{"full_name": " Luke Kennard", "overallRating": "74", "nationality": " United States", "school": " Duke"}
-{"full_name": " Robert Covington", "overallRating": "76", "nationality": " United States", "school": " Tennessee State"}
-{"full_name": " Ayo Dosunmu", "overallRating": "76", "nationality": " United States", "school": " Illinois"}
-{"full_name": " Brandon Clarke", "overallRating": "76", "nationality": " Canada", "school": " Gonzaga"}
-{"full_name": " Javonte Green", "overallRating": "76", "nationality": " United States", "school": " Radford"}
-{"full_name": " Kevin Porter Jr.", "overallRating": "79", "nationality": " United States", "school": " Southern California"}
-{"full_name": " Caleb Martin", "overallRating": "74", "nationality": " United States", "school": " Nevada"}
-{"full_name": " Onyeka Okongwu", "overallRating": "77", "nationality": " United States", "school": " USC Trojans"}
-{"full_name": " Malik Monk", "overallRating": "78", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Max Strus", "overallRating": "78", "nationality": " United States", "school": " DePaul"}
-{"full_name": " Kevin Huerter", "overallRating": "80", "nationality": " United States", "school": " Maryland"}
-{"full_name": " De\u2019Andre Hunter", "overallRating": "76", "nationality": " United States", "school": " Virginia"}
-{"full_name": " Terence Davis", "overallRating": "77", "nationality": " United States", "school": " Mississippi"}
-{"full_name": " Obi Toppin", "overallRating": "80", "nationality": " United States", "school": " Dayton Flyers"}
-{"full_name": " Nicolas Claxton", "overallRating": "79", "nationality": " U.S. Virgin Islands", "school": " Georgia"}
-{"full_name": " Thomas Bryant", "overallRating": "76", "nationality": " United States", "school": " Indiana"}
-{"full_name": " Evan Fournier", "overallRating": "74", "nationality": " France", "school": " France"}
-{"full_name": " Keegan Murray", "overallRating": "76", "nationality": " United States", "school": " Iowa"}
-{"full_name": " Dwight Powell", "overallRating": "76", "nationality": " Canada", "school": " Stanford"}
-{"full_name": " Kentavious Caldwell-Pope", "overallRating": "78", "nationality": " United States", "school": " Georgia"}
-{"full_name": " Joe Harris", "overallRating": "75", "nationality": " United States", "school": " Virginia"}
-{"full_name": " Jeff Green", "overallRating": "75", "nationality": " United States", "school": " Georgetown"}
-{"full_name": " Zeke Nnaji", "overallRating": "75", "nationality": " United States", "school": " Arizona"}
-{"full_name": " Jose Alvarado", "overallRating": "75", "nationality": " Puerto Rico", "school": " Georgia Tech"}
-{"full_name": " Jaxson Hayes", "overallRating": "76", "nationality": " United States", "school": " Texas"}
-{"full_name": " Isaiah Jackson", "overallRating": "76", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Jaden Ivey", "overallRating": "79", "nationality": " United States", "school": " Purdue"}
-{"full_name": " Jalen Smith", "overallRating": "76", "nationality": " United States", "school": " Maryland Terrapins"}
-{"full_name": " Hamidou Diallo", "overallRating": "74", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Alec Burks", "overallRating": "76", "nationality": " United States", "school": " Colorado"}
-{"full_name": " Isaiah Stewart", "overallRating": "78", "nationality": " United States", "school": " Washington"}
-{"full_name": " Precious Achiuwa", "overallRating": "77", "nationality": " Nigeria", "school": " Memphis"}
-{"full_name": " Nerlens Noel", "overallRating": "75", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Josh Richardson", "overallRating": "75", "nationality": " United States", "school": " Tennessee"}
-{"full_name": " Devin Vassell", "overallRating": "83", "nationality": " United States", "school": " Florida State"}
-{"full_name": " Chris Boucher", "overallRating": "78", "nationality": " Saint Lucia", "school": " Oregon"}
-{"full_name": " Kelly Olynyk", "overallRating": "77", "nationality": " Canada", "school": " Gonzaga"}
-{"full_name": " Jae Crowder", "overallRating": "76", "nationality": " United States", "school": " Marquette"}
-{"full_name": " Bruce Brown Jr.", "overallRating": "76", "nationality": " United States", "school": " Miami (FL)"}
-{"full_name": " Cameron Payne", "overallRating": "77", "nationality": " United States", "school": " Murray State"}
-{"full_name": " Dario Saric", "overallRating": "76", "nationality": " Croatia", "school": " Croatia"}
-{"full_name": " Darius Bazley", "overallRating": "76", "nationality": " United States", "school": " Princeton HS (OH)"}
-{"full_name": " Kyle Anderson", "overallRating": "78", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Taurean Prince", "overallRating": "75", "nationality": " United States", "school": " Baylor"}
-{"full_name": " Patrick Williams", "overallRating": "75", "nationality": " United States", "school": " Florida State"}
-{"full_name": " Serge Ibaka", "overallRating": "75", "nationality": " Congo", "school": " Congo"}
-{"full_name": " Marvin Bagley III", "overallRating": "76", "nationality": " United States", "school": " Duke"}
-{"full_name": " Nassir Little", "overallRating": "77", "nationality": " United States", "school": " North Carolina"}
-{"full_name": " JaMychal Green", "overallRating": "74", "nationality": " United States", "school": " Alabama"}
-{"full_name": " Deni Avdija", "overallRating": "75", "nationality": " Israel", "school": " Maccabi Tel Aviv (Israel)"}
-{"full_name": " Grayson Allen", "overallRating": "76", "nationality": " United States", "school": " Duke"}
-{"full_name": " Robin Lopez", "overallRating": "75", "nationality": " United States", "school": " Stanford"}
-{"full_name": " Rui Hachimura", "overallRating": "76", "nationality": " Japan", "school": " Gonzaga"}
-{"full_name": " Isaac Okoro", "overallRating": "73", "nationality": " United States", "school": " Auburn"}
-{"full_name": " Raul Neto", "overallRating": "75", "nationality": " Brazil", "school": " Brazil"}
-{"full_name": " Otto Porter Jr.", "overallRating": "76", "nationality": " United States", "school": " Georgetown"}
-{"full_name": " Cedi Osman", "overallRating": "74", "nationality": " North Macedonia", "school": " Turkey"}
-{"full_name": " Terance Mann", "overallRating": "76", "nationality": " United States", "school": " Florida State"}
-{"full_name": " Amir Coffey", "overallRating": "74", "nationality": " United States", "school": " Minnesota"}
-{"full_name": " Xavier Tillman", "overallRating": "75", "nationality": " United States", "school": " Michigan State"}
-{"full_name": " Dewayne Dedmon", "overallRating": "75", "nationality": " United States", "school": " Southern California"}
-{"full_name": " Gabe Vincent", "overallRating": "74", "nationality": " Nigeria", "school": " UC Santa Barbara"}
-{"full_name": " Aaron Holiday", "overallRating": "73", "nationality": " United States", "school": " UCLA"}
-{"full_name": " John Konchar", "overallRating": "75", "nationality": " United States", "school": " Fort Wayne"}
-{"full_name": " Mason Plumlee", "overallRating": "77", "nationality": " United States", "school": " Duke"}
-{"full_name": " Cody Martin", "overallRating": "75", "nationality": " United States", "school": " Nevada"}
-{"full_name": " Malik Beasley", "overallRating": "77", "nationality": " United States", "school": " Florida State"}
-{"full_name": " Rudy Gay", "overallRating": "75", "nationality": " United States", "school": " Connecticut"}
-{"full_name": " Chimezie Metu", "overallRating": "75", "nationality": " Nigeria", "school": " Southern California"}
-{"full_name": " Richaun Holmes", "overallRating": "74", "nationality": " United States", "school": " Bowling Green"}
-{"full_name": " Terrence Ross", "overallRating": "75", "nationality": " United States", "school": " Washington"}
-{"full_name": " Jalen Suggs", "overallRating": "76", "nationality": " United States", "school": " Gonzaga"}
-{"full_name": " Trey Lyles", "overallRating": "74", "nationality": " Canada", "school": " Kentucky"}
-{"full_name": " Reggie Bullock", "overallRating": "75", "nationality": " United States", "school": " North Carolina"}
-{"full_name": " Chuma Okeke", "overallRating": "75", "nationality": " United States", "school": " Auburn"}
-{"full_name": " Moritz Wagner", "overallRating": "75", "nationality": " Germany", "school": " Michigan"}
-{"full_name": " Daniel Theis", "overallRating": "75", "nationality": " Germany", "school": " Germany"}
-{"full_name": " Goga Bitadze", "overallRating": "75", "nationality": " Georgia", "school": " Georgia"}
-{"full_name": " Maxi Kleber", "overallRating": "74", "nationality": " Germany", "school": " Germany"}
-{"full_name": " Oshae Brissett", "overallRating": "74", "nationality": " Canada", "school": " Syracuse"}
-{"full_name": " Devonte\u2019 Graham", "overallRating": "75", "nationality": " United States", "school": " Kansas"}
-{"full_name": " Edmond Sumner", "overallRating": "76", "nationality": " United States", "school": " Xavier"}
-{"full_name": " T.J. McConnell", "overallRating": "74", "nationality": " United States", "school": " Arizona"}
-{"full_name": " Khem Birch", "overallRating": "74", "nationality": " Canada", "school": " UNLV"}
-{"full_name": " Eric Gordon", "overallRating": "75", "nationality": " United States", "school": " Indiana"}
-{"full_name": " Lonnie Walker IV", "overallRating": "77", "nationality": " United States", "school": " Miami (FL)"}
-{"full_name": " Isaiah Roby", "overallRating": "75", "nationality": " United States", "school": " Nebraska"}
-{"full_name": " Josh Christopher", "overallRating": "74", "nationality": " United States", "school": " Arizona State"}
-{"full_name": " Trey Murphy", "overallRating": "79", "nationality": " United States", "school": " Virginia"}
-{"full_name": " Derrick Favors", "overallRating": "75", "nationality": " United States", "school": " Georgia Tech"}
-{"full_name": " Mike Muscala", "overallRating": "75", "nationality": " United States", "school": " Bucknell"}
-{"full_name": " Tre Mann", "overallRating": "74", "nationality": " United States", "school": " Florida"}
-{"full_name": " Aleksej Pokusevski", "overallRating": "77", "nationality": " Serbia", "school": " Olympiacos Piraeus (EuroLeague)"}
-{"full_name": " Kenrich Williams", "overallRating": "75", "nationality": " United States", "school": " TCU"}
-{"full_name": " Naz Reid", "overallRating": "76", "nationality": " United States", "school": " LSU"}
-{"full_name": " Jaylen Nowell", "overallRating": "77", "nationality": " United States", "school": " Washington"}
-{"full_name": " Jaden McDaniels", "overallRating": "77", "nationality": " United States", "school": " Washington"}
-{"full_name": " Drew Eubanks", "overallRating": "77", "nationality": " United States", "school": " Oregon State"}
-{"full_name": " Jordan McLaughlin", "overallRating": "74", "nationality": " United States", "school": " Southern California"}
-{"full_name": " Kevon Looney", "overallRating": "75", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Justise Winslow", "overallRating": "75", "nationality": " United States", "school": " Duke"}
-{"full_name": " Donte DiVincenzo", "overallRating": "74", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Corey Kispert", "overallRating": "75", "nationality": " United States", "school": " Gonzaga"}
-{"full_name": " Goran Dragic", "overallRating": "76", "nationality": " Slovenia", "school": " Slovenia"}
-{"full_name": " Shake Milton", "overallRating": "73", "nationality": " United States", "school": " SMU"}
-{"full_name": " Ziaire Williams", "overallRating": "74", "nationality": " United States", "school": " Stanford"}
-{"full_name": " James Wiseman", "overallRating": "76", "nationality": " United States", "school": " Memphis"}
-{"full_name": " Delon Wright", "overallRating": "76", "nationality": " United States", "school": " Utah"}
-{"full_name": " Duncan Robinson", "overallRating": "74", "nationality": " United States", "school": " Michigan"}
-{"full_name": " Talen Horton-Tucker", "overallRating": "77", "nationality": " United States", "school": " Iowa State"}
-{"full_name": " Austin Reaves", "overallRating": "74", "nationality": " United States", "school": " Oklahoma"}
-{"full_name": " Gary Harris", "overallRating": "74", "nationality": " United States", "school": " Michigan State"}
-{"full_name": " Alex Len", "overallRating": "74", "nationality": " Ukraine", "school": " Maryland"}
-{"full_name": " Isaiah Hartenstein", "overallRating": "76", "nationality": " Germany", "school": " Germany"}
-{"full_name": " Kendrick Nunn", "overallRating": "74", "nationality": " United States", "school": " Oakland"}
-{"full_name": " Royce O\u2019Neale", "overallRating": "74", "nationality": " United States", "school": " Baylor"}
-{"full_name": " Bennedict Mathurin", "overallRating": "81", "nationality": " United States", "school": " Arizona"}
-{"full_name": " Willy Hernangomez", "overallRating": "74", "nationality": " Spain", "school": " Spain"}
-{"full_name": " Terry Taylor", "overallRating": "74", "nationality": " United States", "school": " Austin Peay"}
-{"full_name": " Thaddeus Young", "overallRating": "76", "nationality": " United States", "school": " Georgia Tech"}
-{"full_name": " Tre Jones", "overallRating": "77", "nationality": " United States", "school": " Duke"}
-{"full_name": " Derrick Jones Jr.", "overallRating": "76", "nationality": " United States", "school": " UNLV"}
-{"full_name": " Keita Bates-Diop", "overallRating": "75", "nationality": " United States", "school": " Ohio State"}
-{"full_name": " Doug McDermott", "overallRating": "74", "nationality": " United States", "school": " Creighton"}
-{"full_name": " David Nwaba", "overallRating": "74", "nationality": " United States", "school": " Cal Poly"}
-{"full_name": " Tony Bradley", "overallRating": "74", "nationality": " United States", "school": " North Carolina"}
-{"full_name": " Torrey Craig", "overallRating": "76", "nationality": " United States", "school": " USC Upstate"}
-{"full_name": " Gorgui Dieng", "overallRating": "74", "nationality": " Senegal", "school": " Louisville"}
-{"full_name": " Frank Kaminsky III", "overallRating": "74", "nationality": " United States", "school": " Wisconsin"}
-{"full_name": " Zach Collins", "overallRating": "76", "nationality": " United States", "school": " Gonzaga"}
-{"full_name": " Trendon Watford", "overallRating": "74", "nationality": " United States", "school": " LSU"}
-{"full_name": " Paul Reed", "overallRating": "73", "nationality": " United States", "school": " DePaul"}
-{"full_name": " Taj Gibson", "overallRating": "74", "nationality": " United States", "school": " Southern California"}
-{"full_name": " Georges Niang", "overallRating": "75", "nationality": " United States", "school": " Iowa State"}
-{"full_name": " Johnny Davis", "overallRating": "74", "nationality": " United States", "school": " Wisconsin"}
-{"full_name": " Charles Bassey", "overallRating": "73", "nationality": " United States", "school": " Western Kentu..."}
-{"full_name": " Furkan Korkmaz", "overallRating": "73", "nationality": " Turkey", "school": " Turkey"}
-{"full_name": " Dean Wade", "overallRating": "75", "nationality": " United States", "school": " Kansas State"}
-{"full_name": " George Hill", "overallRating": "73", "nationality": " United States", "school": " IUPUI"}
-{"full_name": " Jalen Johnson", "overallRating": "72", "nationality": " United States", "school": " Duke"}
-{"full_name": " Ochai Agbaji", "overallRating": "73", "nationality": " United States", "school": " Kansas"}
-{"full_name": " Nick Richards", "overallRating": "77", "nationality": " Jamaica", "school": " Kentucky"}
-{"full_name": " Danny Green", "overallRating": "73", "nationality": " United States", "school": " UNC"}
-{"full_name": " Jalen McDaniels", "overallRating": "76", "nationality": " United States", "school": " San Diego State"}
-{"full_name": " Josh Green", "overallRating": "76", "nationality": " Australia", "school": " Arizona"}
-{"full_name": " Davis Bertans", "overallRating": "73", "nationality": " Latvia", "school": " Latvia"}
-{"full_name": " Day\u2019Ron Sharpe", "overallRating": "73", "nationality": " United States", "school": " North Carolina"}
-{"full_name": " Dyson Daniels", "overallRating": "74", "nationality": " Australia", "school": " Australia"}
-{"full_name": " Garrison Mathews", "overallRating": "73", "nationality": " United States", "school": " Lipscomb"}
-{"full_name": " Boban Marjanovic", "overallRating": "73", "nationality": " Serbia", "school": " Serbia"}
-{"full_name": " Cory Joseph", "overallRating": "72", "nationality": " Canada", "school": " Texas"}
-{"full_name": " Jeremy Sochan", "overallRating": "72", "nationality": " Poland", "school": " Baylor"}
-{"full_name": " Naji Marshall", "overallRating": "75", "nationality": " United States", "school": " Xavier"}
-{"full_name": " Jalen Duren", "overallRating": "76", "nationality": " United States", "school": " Memphis"}
-{"full_name": " Jeremiah Robinson-Earl", "overallRating": "75", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Aaron Wiggins", "overallRating": "73", "nationality": " United States", "school": " Maryland"}
-{"full_name": " Landry Shamet", "overallRating": "73", "nationality": " United States", "school": " Wichita State"}
-{"full_name": " Usman Garuba", "overallRating": "74", "nationality": " Spain", "school": " Spain"}
-{"full_name": " Marquese Chriss", "overallRating": "73", "nationality": " United States", "school": " Washington"}
-{"full_name": " Damion Lee", "overallRating": "73", "nationality": " United States", "school": " Louisville"}
-{"full_name": " Austin Rivers", "overallRating": "73", "nationality": " United States", "school": " Duke"}
-{"full_name": " Vernon Carey Jr.", "overallRating": "73", "nationality": " United States", "school": " Duke"}
-{"full_name": " Moses Moody", "overallRating": "73", "nationality": " United States", "school": " Arkansas"}
-{"full_name": " Danuel House Jr.", "overallRating": "73", "nationality": " United States", "school": " Texas A&M"}
-{"full_name": " David Roddy", "overallRating": "72", "nationality": " United States", "school": " Colorado State"}
-{"full_name": " Wesley Matthews", "overallRating": "72", "nationality": " United States", "school": " Marquette"}
-{"full_name": " Moses Brown", "overallRating": "72", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Mark Williams", "overallRating": "72", "nationality": " United States", "school": " Duke"}
-{"full_name": " Thanasis Antetokounmpo", "overallRating": "72", "nationality": " Greece", "school": " Greece"}
-{"full_name": " Justin Holiday", "overallRating": "72", "nationality": " United States", "school": " Washington"}
-{"full_name": " Jevon Carter", "overallRating": "75", "nationality": " United States", "school": " West Virginia"}
-{"full_name": " AJ Griffin", "overallRating": "74", "nationality": " United States", "school": " Duke"}
-{"full_name": " Kai Jones", "overallRating": "72", "nationality": " United States", "school": " Texas"}
-{"full_name": " James Bouknight", "overallRating": "72", "nationality": " United States", "school": " UConn"}
-{"full_name": " Bryn Forbes", "overallRating": "73", "nationality": " United States", "school": " Michigan State"}
-{"full_name": " Damian Jones", "overallRating": "73", "nationality": " United States", "school": " Vanderbilt"}
-{"full_name": " Simone Fontecchio", "overallRating": "72", "nationality": " Italy", "school": " Italy"}
-{"full_name": " Quentin Grimes", "overallRating": "72", "nationality": " United States", "school": " Kansas"}
-{"full_name": " Nickeil Alexander-Walker", "overallRating": "72", "nationality": " Canada", "school": " Virginia Tech"}
-{"full_name": " Juan Toscano-Anderson", "overallRating": "72", "nationality": " United States", "school": " Marquette"}
-{"full_name": " R.J. Hampton", "overallRating": "76", "nationality": " United States", "school": " New Zealand"}
-{"full_name": " Yuta Watanabe", "overallRating": "74", "nationality": " Japan", "school": " George Washington"}
-{"full_name": " Frank Ntilikina", "overallRating": "72", "nationality": " France", "school": " France"}
-{"full_name": " David Duke Jr.", "overallRating": "72", "nationality": " United States", "school": " Providence"}
-{"full_name": " Markieff Morris", "overallRating": "72", "nationality": " United States", "school": " Kansas"}
-{"full_name": " Dalano Banton", "overallRating": "76", "nationality": " Canada", "school": " Nebraska"}
-{"full_name": " DeAndre Jordan", "overallRating": "72", "nationality": " United States", "school": " Texas A&M"}
-{"full_name": " Isaiah Livers", "overallRating": "72", "nationality": " United States", "school": " Michigan"}
-{"full_name": " Kira Lewis Jr.", "overallRating": "72", "nationality": " United States", "school": " Alabama Crimson Tide"}
-{"full_name": " Tari Eason", "overallRating": "77", "nationality": " United States", "school": " LSU"}
-{"full_name": " Juancho Hernangomez", "overallRating": "72", "nationality": " Spain", "school": " Spain"}
-{"full_name": " Ty Jerome", "overallRating": "75", "nationality": " United States", "school": " Virginia"}
-{"full_name": " Malaki Branham", "overallRating": "72", "nationality": " United States", "school": " Ohio State"}
-{"full_name": " Bismack Biyombo", "overallRating": "72", "nationality": " DR Congo", "school": " Republic of the Congo"}
-{"full_name": " Ousmane Dieng", "overallRating": "72", "nationality": " France", "school": " France"}
-{"full_name": " Greg Brown III", "overallRating": "72", "nationality": " United States", "school": " Texas"}
-{"full_name": " Theo Maledon", "overallRating": "72", "nationality": " France", "school": " ASVEL (France)"}
-{"full_name": " Jalen Williams", "overallRating": "72", "nationality": " United States", "school": " Santa Clara"}
-{"full_name": " Shaedon Sharpe", "overallRating": "75", "nationality": " Canada", "school": " Kentucky"}
-{"full_name": " Troy Brown Jr.", "overallRating": "72", "nationality": " United States", "school": " Oregon"}
-{"full_name": " MarJon Beauchamp", "overallRating": "72", "nationality": " United States", "school": " Yakima Valley"}
-{"full_name": " Jake LaRavia", "overallRating": "72", "nationality": " United States", "school": " Wake Forest"}
-{"full_name": " Sandro Mamukelashvili", "overallRating": "71", "nationality": " Georgia", "school": " Seton Hall"}
-{"full_name": " Sam Hauser", "overallRating": "72", "nationality": " United States", "school": " Virginia"}
-{"full_name": " Dalen Terry", "overallRating": "71", "nationality": " United States", "school": " Arizona"}
-{"full_name": " Dylan Windler", "overallRating": "71", "nationality": " United States", "school": " Belmont"}
-{"full_name": " Leandro Bolmaro", "overallRating": "71", "nationality": " Argentina", "school": " FC Barcelona Lassa (Spain)"}
-{"full_name": " Anthony Gill", "overallRating": "72", "nationality": " United States", "school": " Virginia"}
-{"full_name": " Duane Washington Jr.", "overallRating": "72", "nationality": " Germany", "school": " Ohio State"}
-{"full_name": " Walker Kessler", "overallRating": "77", "nationality": " United States", "school": " Auburn"}
-{"full_name": " Nikola Jovic", "overallRating": "71", "nationality": " Serbia", "school": " Serbia"}
-{"full_name": " Wenyen Gabriel", "overallRating": "71", "nationality": " Sudan", "school": " Kentucky"}
-{"full_name": " Miles McBride", "overallRating": "71", "nationality": " United States", "school": " West Virginia"}
-{"full_name": " Bol Bol", "overallRating": "79", "nationality": " Sudan", "school": " Oregon"}
-{"full_name": " Aaron Nesmith", "overallRating": "71", "nationality": " United States", "school": " Vanderbilt Commodores"}
-{"full_name": " Jericho Sims", "overallRating": "73", "nationality": " United States", "school": " Texas"}
-{"full_name": " Kessler Edwards", "overallRating": "71", "nationality": " United States", "school": " Pepperdine"}
-{"full_name": " Christian Braun", "overallRating": "71", "nationality": " United States", "school": " Kansas"}
-{"full_name": " Vlatko Cancar", "overallRating": "71", "nationality": " Slovenia", "school": " Slovenia"}
-{"full_name": " Rodney McGruder", "overallRating": "71", "nationality": " United States", "school": " Kansas State"}
-{"full_name": " Killian Hayes", "overallRating": "70", "nationality": " France", "school": " Ratiopharm Ulm (Germany)"}
-{"full_name": " Trey Burke", "overallRating": "71", "nationality": " United States", "school": " Syracuse"}
-{"full_name": " Kevin Knox II", "overallRating": "71", "nationality": " United States", "school": " Kentucky"}
-{"full_name": " Blake Wesley", "overallRating": "71", "nationality": " United States", "school": " Notre Dame"}
-{"full_name": " Wendell Moore Jr.", "overallRating": "71", "nationality": " United States", "school": " Duke"}
-{"full_name": " Josh Okogie", "overallRating": "71", "nationality": " Nigeria", "school": " Georgia Tech"}
-{"full_name": " Marko Simonovi\u0107", "overallRating": "70", "nationality": " Montenegro", "school": " Serbia"}
-{"full_name": " Luka Garza", "overallRating": "71", "nationality": " United States", "school": " Iowa"}
-{"full_name": " Jaden Springer", "overallRating": "70", "nationality": " United States", "school": " Tennessee"}
-{"full_name": " Nathan Knight", "overallRating": "71", "nationality": " United States", "school": " William & Mary"}
-{"full_name": " Luke Kornet", "overallRating": "70", "nationality": " United States", "school": " Vanderbilt"}
-{"full_name": " Keon Johnson", "overallRating": "71", "nationality": " United States", "school": " Tennessee"}
-{"full_name": " Mfiondu Kabengele", "overallRating": "70", "nationality": " Canada", "school": " Florida State"}
-{"full_name": " Kennedy Chandler", "overallRating": "70", "nationality": " United States", "school": " Tennessee"}
-{"full_name": " Jason Preston", "overallRating": "70", "nationality": " United States", "school": " Ohio"}
-{"full_name": " Lindy Waters III", "overallRating": "73", "nationality": " United States", "school": " Oklahoma State"}
-{"full_name": " Udonis Haslem", "overallRating": "70", "nationality": " United States", "school": " Florida"}
-{"full_name": " J.T. Thor", "overallRating": "69", "nationality": " South Sudan", "school": " Auburn"}
-{"full_name": " Max Christie", "overallRating": "71", "nationality": " United States", "school": " Michigan State"}
-{"full_name": " Neemias Queta", "overallRating": "70", "nationality": " Portugal", "school": " Utah State"}
-{"full_name": " Bryce McGowens", "overallRating": "70", "nationality": " United States", "school": " Nebraska"}
-{"full_name": " Jaden Hardy", "overallRating": "70", "nationality": " United States", "school": " Coronado High School"}
-{"full_name": " Andrew Nembhard", "overallRating": "72", "nationality": " Canada", "school": " Gonzaga"}
-{"full_name": " Peyton Watson", "overallRating": "70", "nationality": " United States", "school": " UCLA"}
-{"full_name": " Caleb Houstan", "overallRating": "70", "nationality": " Canada", "school": " Michigan"}
-{"full_name": " Justin Champagnie", "overallRating": "70", "nationality": " United States", "school": " Pittsburgh"}
-{"full_name": " Garrett Temple", "overallRating": "70", "nationality": " United States", "school": " LSU"}
-{"full_name": " Ish Wainright", "overallRating": "70", "nationality": " United States", "school": " Baylor"}
-{"full_name": " Romeo Langford", "overallRating": "70", "nationality": " United States", "school": " Indiana"}
-{"full_name": " Christian Koloko", "overallRating": "71", "nationality": " Cameroon", "school": " Arizona"}
-{"full_name": " Isaiah Joe", "overallRating": "69", "nationality": " United States", "school": " Arkansas"}
-{"full_name": " Jaylin Williams", "overallRating": "70", "nationality": " United States", "school": " Arkansas"}
-{"full_name": " Vit Krejci", "overallRating": "70", "nationality": " Czech Republic", "school": " Czech Republic"}
-{"full_name": " Jock Landale", "overallRating": "75", "nationality": " Australia", "school": " Australia"}
-{"full_name": " JD Davison", "overallRating": "69", "nationality": " United States", "school": " Alabama"}
-{"full_name": " Isaiah Mobley", "overallRating": "69", "nationality": " United States", "school": " USC"}
-{"full_name": " Moussa Diabate", "overallRating": "69", "nationality": " France", "school": " Michigan"}
-{"full_name": " Admiral Schofield", "overallRating": "69", "nationality": " United Kingdom", "school": " Tennessee"}
-{"full_name": " Julian Champagnie", "overallRating": "68", "nationality": " United States", "school": " St. John's"}
-{"full_name": " Haywood Highsmith", "overallRating": "68", "nationality": " United States", "school": " Wheeling"}
-{"full_name": " Buddy Boeheim", "overallRating": "68", "nationality": " United States", "school": " Syracuse"}
-{"full_name": " Isaiah Todd", "overallRating": "70", "nationality": " United States", "school": " G League Ignite"}
-{"full_name": " Theo Pinson", "overallRating": "68", "nationality": " United States", "school": " North Carolina"}
-{"full_name": " Josh Minott", "overallRating": "68", "nationality": " United States", "school": " Memphis"}
-{"full_name": " Alondes Williams", "overallRating": "68", "nationality": " United States", "school": " Wake Forest"}
-{"full_name": " Patrick Baldwin Jr.", "overallRating": "70", "nationality": " United States", "school": " Wisconsin\u2013Milwaukee"}
-{"full_name": " Trevor Hudgins", "overallRating": "68", "nationality": " United States", "school": " Northwest Missouri State"}
-{"full_name": " Collin Gillespie", "overallRating": "68", "nationality": " United States", "school": " Villanova"}
-{"full_name": " Eugene Omoruyi", "overallRating": "68", "nationality": " Canada", "school": " Oregon"}
-{"full_name": " Kenneth Lofton Jr.", "overallRating": "69", "nationality": " United States", "school": " Louisiana Tech"}
-{"full_name": " Ryan Rollins", "overallRating": "68", "nationality": " United States", "school": " Toledo"}
-{"full_name": " Jabari Walker", "overallRating": "70", "nationality": " United States", "school": " Colorado"}
-{"full_name": " A.J. Green", "overallRating": "67", "nationality": " United States", "school": " Northern Iowa"}
-{"full_name": " Feron Hunt", "overallRating": "67", "nationality": " United States", "school": " SMU"}
-{"full_name": " Darius Days", "overallRating": "67", "nationality": " United States", "school": " LSU"}
-{"full_name": " Cole Swider", "overallRating": "67", "nationality": " United States", "school": " Syracuse"}
-{"full_name": " McKinley Wright IV", "overallRating": "68", "nationality": " United States", "school": " Colorado"}
-{"full_name": " Jack White", "overallRating": "67", "nationality": " Australia", "school": " Australia"}
-{"full_name": " Daishen Nix", "overallRating": "69", "nationality": " United States", "school": " Trinity International"}
-{"full_name": " A.J. Lawson", "overallRating": "67", "nationality": " Canada", "school": " South Carolina"}
-{"full_name": " Jordan Hall", "overallRating": "67", "nationality": " United States", "school": " Saint Joseph's"}
-{"full_name": " Dominick Barlow", "overallRating": "66", "nationality": " United States", "school": " St. Joseph's Prep"}
+{"full_name": "Giannis Antetokounmpo", "nationality": "Greece", "college": null, "highschool": null, "hometown": "Athens"}
+{"full_name": "Jayson Tatum", "nationality": "U.S.", "college": "Duke", "highschool": "Chaminade", "hometown": "St. Louis, Missouri"}
+{"full_name": "Jimmy Butler", "nationality": "U.S.", "college": "Tyler JC", "highschool": "Tomball", "hometown": "Houston, Texas"}
+{"full_name": "Kevin Durant", "nationality": "U.S.", "college": "Texas", "highschool": "Fort Washington, Maryland", "hometown": "Washington, D.C."}
+{"full_name": "LeBron James", "nationality": "U.S.", "college": null, "highschool": "St. Vincent\u2013St. Mary", "hometown": "Akron, Ohio"}
+{"full_name": "Kawhi Leonard", "nationality": "U.S.", "college": "San Diego State", "highschool": "Canyon Springs", "hometown": "Los Angeles, California"}
+{"full_name": "Nikola Joki\u0107", "nationality": "", "college": null, "highschool": null, "hometown": "Sombor"}
+{"full_name": "Joel Embiid", "nationality": "Cameroon", "college": "Kansas", "highschool": "Montverde Academy", "hometown": "Yaound\u00e9"}
+{"full_name": "Luka Don\u010di\u0107", "nationality": "", "college": null, "highschool": null, "hometown": "Ljubljana"}
+{"full_name": "Stephen Curry", "nationality": "U.S.", "college": "Davidson", "highschool": "Charlotte Christian", "hometown": "Akron, Ohio"}
+{"full_name": "Ja Morant", "nationality": "U.S.", "college": "Murray State", "highschool": "Sumter, South Carolina", "hometown": "Dalzell, South Carolina"}
+{"full_name": "DeMar DeRozan", "nationality": "U.S.", "college": "USC", "highschool": "Compton", "hometown": "Compton, California"}
+{"full_name": "Trae Young", "nationality": "U.S.", "college": "Oklahoma", "highschool": "Norman North", "hometown": "Lubbock, Texas"}
+{"full_name": "Devin Booker", "nationality": "U.S.", "college": "Kentucky", "highschool": "Grandville", "hometown": "Grand Rapids, Michigan"}
+{"full_name": "Chris Paul", "nationality": "U.S.", "college": "Wake Forest", "highschool": "West Forsyth", "hometown": "Winston-Salem, North Carolina"}
+{"full_name": "Kyrie Irving", "nationality": "Australia", "college": "Duke", "highschool": "Montclair Kimberley Academy", "hometown": "Melbourne, Victoria"}
+{"full_name": "James Harden", "nationality": "U.S.", "college": "Arizona State", "highschool": "Artesia", "hometown": "Los Angeles, California"}
+{"full_name": "Anthony Davis", "nationality": "U.S.", "college": "Kentucky", "highschool": "Perspectives Charter", "hometown": "Chicago, Illinois"}
+{"full_name": "Karl-Anthony Towns", "nationality": "U.S.", "college": "Kentucky", "highschool": "St. Joseph", "hometown": "Edison, New Jersey"}
+{"full_name": "Zach LaVine", "nationality": "U.S.", "college": "UCLA", "highschool": "Bothell", "hometown": "Renton, Washington"}
+{"full_name": "Rudy Gobert", "nationality": "France", "college": null, "highschool": null, "hometown": "Saint-Quentin"}
+{"full_name": "Donovan Mitchell", "nationality": "U.S.", "college": "Louisville", "highschool": "Canterbury School", "hometown": "Elmsford, New York"}
+{"full_name": "Jaylen Brown", "nationality": "U.S.", "college": "California", "highschool": "Wheeler", "hometown": "Atlanta, Georgia"}
+{"full_name": "Bam Adebayo", "nationality": "U.S.", "college": "Kentucky", "highschool": "Northside", "hometown": "Newark, New Jersey"}
+{"full_name": "LaMelo Ball", "nationality": "U.S.", "college": null, "highschool": "Chino Hills", "hometown": "Anaheim, California"}
+{"full_name": "Damian Lillard", "nationality": "U.S.", "college": "Weber State", "highschool": "Arroyo", "hometown": "Oakland, California"}
+{"full_name": "Paul George", "nationality": "U.S.", "college": "Fresno State", "highschool": "Knight", "hometown": "Palmdale, California"}
+{"full_name": "Darius Garland", "nationality": "U.S.", "college": "Vanderbilt", "highschool": "Brentwood Academy", "hometown": "Gary, Indiana"}
+{"full_name": "Zion Williamson", "nationality": "U.S.", "college": "Duke", "highschool": "Spartanburg Day", "hometown": "Salisbury, North Carolina"}
+{"full_name": "Dejounte Murray", "nationality": "U.S.", "college": "Washington", "highschool": "Rainier Beach", "hometown": "Seattle, Washington"}
+{"full_name": "Shai Gilgeous-Alexander", "nationality": "Canada", "college": "Kentucky", "highschool": "St. Thomas More", "hometown": "Toronto, Ontario"}
+{"full_name": "Jrue Holiday", "nationality": "U.S.", "college": "UCLA", "highschool": "Campbell Hall", "hometown": "Los Angeles, California"}
+{"full_name": "Brandon Ingram", "nationality": "U.S.", "college": "Duke", "highschool": "Kinston", "hometown": "Kinston, North Carolina"}
+{"full_name": "Khris Middleton", "nationality": "U.S.", "college": "Texas A&M", "highschool": "Porter-Gaud", "hometown": "Charleston, South Carolina"}
+{"full_name": "Domantas Sabonis", "nationality": "U.S.", "college": "Gonzaga", "highschool": null, "hometown": "Portland, Oregon"}
+{"full_name": "Bradley Beal", "nationality": "U.S.", "college": "Florida", "highschool": "Chaminade", "hometown": "St. Louis, Missouri"}
+{"full_name": "Anthony Edwards", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Robert Williams", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Deandre Ayton", "nationality": null, "college": "Arizona", "highschool": "San Diego", "hometown": "Nassau, Bahamas"}
+{"full_name": "Kristaps Porzi\u0146\u0123is", "nationality": "Latvia", "college": null, "highschool": null, "hometown": "Liep\u0101ja"}
+{"full_name": "Pascal Siakam", "nationality": "Cameroon", "college": "New Mexico State", "highschool": "Lewisville, Texas", "hometown": "Douala"}
+{"full_name": "Evan Mobley", "nationality": "U.S.", "college": "USC", "highschool": "Temecula, California", "hometown": "San Diego, California"}
+{"full_name": "CJ McCollum", "nationality": "U.S.", "college": "Lehigh", "highschool": "GlenOak", "hometown": "Canton, Ohio"}
+{"full_name": "Jarrett Allen", "nationality": "U.S.", "college": "Texas", "highschool": "Round Rock", "hometown": "San Diego, California"}
+{"full_name": "Tyrese Maxey", "nationality": "U.S.", "college": "Kentucky", "highschool": "South Garland", "hometown": "Dallas, Texas"}
+{"full_name": "Clint Capela", "nationality": "Switzerland", "college": null, "highschool": "INSEP", "hometown": "Geneva"}
+{"full_name": "De'Aaron Fox", "nationality": "U.S.", "college": "Kentucky", "highschool": "Cypress Lakes", "hometown": "New Orleans, Louisiana"}
+{"full_name": "Tyler Herro", "nationality": "U.S.", "college": "Kentucky", "highschool": "Whitnall", "hometown": "Greenfield, Wisconsin"}
+{"full_name": "Christian Wood", "nationality": "U.S.", "college": "UNLV", "highschool": "Los Alamitos", "hometown": "Long Beach, California"}
+{"full_name": "Tyrese Haliburton", "nationality": "US", "college": "Iowa State", "highschool": "Oshkosh North", "hometown": "Oshkosh, Wisconsin"}
+{"full_name": "RJ Barrett", "nationality": "Canadian", "college": "Duke", "highschool": "St. Marcellinus", "hometown": "Toronto, Ontario"}
+{"full_name": "Jamal Murray", "nationality": "Canada", "college": "Kentucky", "highschool": "Grand River", "hometown": "Kitchener, Ontario"}
+{"full_name": "Scottie Barnes", "nationality": "U.S.", "college": "Florida State", "highschool": "Cardinal Newman", "hometown": "West Palm Beach, Florida"}
+{"full_name": "Cade Cunningham", "nationality": "U.S.", "college": "Oklahoma State", "highschool": "Bowie", "hometown": "Arlington, Texas"}
+{"full_name": "Fred VanVleet", "nationality": "U.S.", "college": "Wichita State", "highschool": "Auburn", "hometown": "Rockford, Illinois"}
+{"full_name": "John Collins", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Nikola Vu\u010devi\u0107", "nationality": "Switzerland", "college": "USC", "highschool": "Simi Valley, California", "hometown": "Morges"}
+{"full_name": "Wendell Carter Jr.", "nationality": "U.S.", "college": "Duke", "highschool": "Pace Academy", "hometown": "Atlanta, Georgia"}
+{"full_name": "Andrew Wiggins", "nationality": "Canada", "college": "Kansas", "highschool": "Vaughan", "hometown": "Toronto, Ontario"}
+{"full_name": "Desmond Bane", "nationality": "U.S.", "college": "TCU", "highschool": "Seton Catholic", "hometown": "Richmond, Indiana"}
+{"full_name": "Jalen Brunson", "nationality": "U.S.", "college": "Villanova", "highschool": "Stevenson", "hometown": "New Brunswick, New Jersey"}
+{"full_name": "Ben Simmons", "nationality": "Australia", "college": "Box Hill Senior Secondary College", "highschool": "Box Hill Senior Secondary College", "hometown": "Melbourne, Victoria"}
+{"full_name": "Jonas Valan\u010di\u016bnas", "nationality": "Lithuania", "college": null, "highschool": null, "hometown": "Utena"}
+{"full_name": "Mikal Bridges", "nationality": "U.S.", "college": "Villanova", "highschool": "Great Valley", "hometown": "Philadelphia, Pennsylvania"}
+{"full_name": "Jordan Poole", "nationality": "U.S.", "college": "Michigan", "highschool": "Rufus King", "hometown": "Milwaukee, Wisconsin"}
+{"full_name": "Tobias Harris", "nationality": "U.S.", "college": "Tennessee", "highschool": "Half Hollow Hills West", "hometown": "Islip, New York"}
+{"full_name": "Al Horford", "nationality": null, "college": "Florida", "highschool": "Grand Ledge, Michigan", "hometown": "Puerto Plata, Dominican Republic"}
+{"full_name": "Draymond Green", "nationality": "U.S.", "college": "Michigan State", "highschool": "Saginaw", "hometown": "Saginaw, Michigan"}
+{"full_name": "Marcus Smart", "nationality": "U.S.", "college": "Oklahoma State", "highschool": "Marcus", "hometown": "Flower Mound, Texas"}
+{"full_name": "Klay Thompson", "nationality": "U.S.", "college": "Washington State", "highschool": "Santa Margarita Catholic", "hometown": "Los Angeles, California"}
+{"full_name": "Malcolm Brogdon", "nationality": "American", "college": "Virginia", "highschool": "Greater Atlanta Christian", "hometown": "Atlanta, Georgia"}
+{"full_name": "Steven Adams", "nationality": "New Zealand", "college": "Rotorua Lakes", "highschool": "Rotorua Lakes", "hometown": "Rotorua"}
+{"full_name": "Kyle Lowry", "nationality": "U.S.", "college": "Villanova", "highschool": "Cardinal Dougherty", "hometown": "Philadelphia, Pennsylvania"}
+{"full_name": "Lonzo Ball", "nationality": "U.S.", "college": "UCLA", "highschool": "Chino Hills", "hometown": "Anaheim, California"}
+{"full_name": "Julius Randle", "nationality": "American", "college": "Kentucky", "highschool": "Prestonwood Christian", "hometown": "Dallas, Texas"}
+{"full_name": "Terry Rozier", "nationality": "U.S.", "college": "Louisville", "highschool": "Shaker Heights", "hometown": "Youngstown, Ohio"}
+{"full_name": "Myles Turner", "nationality": "American", "college": "Texas", "highschool": "Trinity", "hometown": "Bedford, Texas"}
+{"full_name": "Mike Conley", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Jalen Green", "nationality": "U.S.", "college": null, "highschool": "San Joaquin Memorial", "hometown": "Merced, California"}
+{"full_name": "Josh Giddey", "nationality": "Australia", "college": "St Kevin's College", "highschool": "St Kevin's College", "hometown": "Melbourne"}
+{"full_name": "Keldon Johnson", "nationality": "U.S.", "college": "Kentucky", "highschool": "Park View High School", "hometown": "Chesterfield, Virginia"}
+{"full_name": "D'Angelo Russell", "nationality": "U.S.", "college": "Ohio State", "highschool": "Central", "hometown": "Louisville, Kentucky"}
+{"full_name": "Mitchell Robinson", "nationality": "U.S.", "college": null, "highschool": "Chalmette", "hometown": "Pensacola, Florida"}
+{"full_name": "Jerami Grant", "nationality": "US", "college": "Syracuse", "highschool": "DeMatha Catholic", "hometown": "Portland, Oregon"}
+{"full_name": "Jusuf Nurki\u0107", "nationality": "", "college": null, "highschool": null, "hometown": "\u017divinice"}
+{"full_name": "Bobby Portis", "nationality": "U.S.", "college": "Arkansas", "highschool": "Hall", "hometown": "Little Rock, Arkansas"}
+{"full_name": "O.G. Anunoby", "nationality": "England", "college": "Indiana", "highschool": "Jefferson City", "hometown": "London"}
+{"full_name": "Norman Powell", "nationality": "U.S.", "college": "UCLA", "highschool": "Lincoln", "hometown": "San Diego, California"}
+{"full_name": "Derrick Rose", "nationality": "US", "college": "Memphis", "highschool": "Simeon Career Academy", "hometown": "Chicago, Illinois"}
+{"full_name": "Kevin Love", "nationality": "US", "college": "UCLA", "highschool": "Lake Oswego", "hometown": "Santa Monica, California"}
+{"full_name": "Kyle Kuzma", "nationality": "U.S.", "college": "Utah", "highschool": "Bentley", "hometown": "Flint, Michigan"}
+{"full_name": "Brook Lopez", "nationality": "Los Angeles, California, U.S.", "college": "Stanford", "highschool": "San Joaquin Memorial", "hometown": null}
+{"full_name": "Franz Wagner", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Bojan Bogdanovi\u0107", "nationality": "", "college": null, "highschool": null, "hometown": "Mostar"}
+{"full_name": "Gordon Hayward", "nationality": "U.S.", "college": "Butler", "highschool": "Brownsburg", "hometown": "Indianapolis, Indiana"}
+{"full_name": "Harrison Barnes", "nationality": "U.S.", "college": "North Carolina", "highschool": "Ames", "hometown": "Ames, Iowa"}
+{"full_name": "Bogdan Bogdanovi\u0107", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Dillon Brooks", "nationality": "Canada", "college": "Oregon", "highschool": "Father Henry Carr", "hometown": "Mississauga, Ontario"}
+{"full_name": "Spencer Dinwiddie", "nationality": "U.S.", "college": "Colorado", "highschool": "William Howard Taft", "hometown": "Los Angeles, California"}
+{"full_name": "Michael Porter", "nationality": null, "college": null, "highschool": null, "hometown": "Ann Arbor, Michigan"}
+{"full_name": "Cameron Johnson", "nationality": "U.S.", "college": "Pittsburgh", "highschool": "Moon Area", "hometown": "Moon Township, Pennsylvania"}
+{"full_name": "Anfernee Simons", "nationality": "U.S.", "college": null, "highschool": "Edgewater", "hometown": "Altamonte Springs, Florida"}
+{"full_name": "Kelly Oubre Jr.", "nationality": "U.S.", "college": "Kansas", "highschool": "George Bush", "hometown": "New Orleans, Louisiana"}
+{"full_name": "Josh Hart", "nationality": "U.S.", "college": "Villanova", "highschool": "Wheaton", "hometown": "Silver Spring, Maryland"}
+{"full_name": "Mo Bamba", "nationality": "New York City, New York, U.S.", "college": "Texas", "highschool": "Cardigan Mountain School", "hometown": null}
+{"full_name": "Saddiq Bey", "nationality": "U.S.", "college": "Villanova", "highschool": "DeMatha Catholic", "hometown": "Charlotte, North Carolina"}
+{"full_name": "Andre Drummond", "nationality": "U.S.", "college": "UConn", "highschool": "Hartford, Connecticut", "hometown": "Mount Vernon, New York"}
+{"full_name": "Aaron Gordon", "nationality": "U.S.", "college": "Arizona", "highschool": "Archbishop Mitty", "hometown": "San Jose, California"}
+{"full_name": "T. J. Warren", "nationality": "U.S.", "college": "NC State", "highschool": "Brewster Academy", "hometown": "Durham, North Carolina"}
+{"full_name": "Gary Trent Jr.", "nationality": "U.S.", "college": "Duke", "highschool": "Apple Valley", "hometown": "Columbus, Ohio"}
+{"full_name": "Caris LeVert", "nationality": "U.S.", "college": "Michigan", "highschool": "Pickerington Central", "hometown": "Columbus, Ohio"}
+{"full_name": "Mont\u00e9 Morris", "nationality": "U.S.", "college": "Iowa State", "highschool": "Flint Beecher", "hometown": "Grand Rapids, Michigan"}
+{"full_name": "Ricky Rubio", "nationality": "Spain", "college": null, "highschool": null, "hometown": "El Masnou"}
+{"full_name": "Danilo Gallinari", "nationality": "Italy", "college": null, "highschool": null, "hometown": "Sant'Angelo Lodigiano"}
+{"full_name": "Derrick White", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Collin Sexton", "nationality": "U.S.", "college": "Alabama", "highschool": "Hillgrove", "hometown": "Marietta, Georgia"}
+{"full_name": "Victor Oladipo", "nationality": "U.S.", "college": "Indiana", "highschool": "DeMatha Catholic", "hometown": "Silver Spring, Maryland"}
+{"full_name": "John Wall", "nationality": "U.S.", "college": "Kentucky", "highschool": "Garner", "hometown": "Raleigh, North Carolina"}
+{"full_name": "P. J. Washington", "nationality": "U.S.", "college": "Kentucky", "highschool": "Findlay Prep", "hometown": "Louisville, Kentucky"}
+{"full_name": "Jarred Vanderbilt", "nationality": "U.S.", "college": "Kentucky", "highschool": null, "hometown": "Houston, Texas"}
+{"full_name": "Patrick Beverley", "nationality": "U.S.", "college": "Arkansas", "highschool": "Waubonsie Valley", "hometown": "Chicago, Illinois"}
+{"full_name": "Lauri Markkanen", "nationality": "Finland", "college": "Arizona", "highschool": null, "hometown": "Vantaa"}
+{"full_name": "Paolo Banchero", "nationality": "U.S.", "college": "Duke", "highschool": "O'Dea", "hometown": "Seattle, Washington"}
+{"full_name": "Russell Westbrook", "nationality": "U.S.", "college": "UCLA", "highschool": "Leuzinger", "hometown": "Long Beach, California"}
+{"full_name": "Jonathan Isaac", "nationality": "U.S.", "college": "Florida State", "highschool": "Barron G. Collier", "hometown": "The Bronx, New York"}
+{"full_name": "Jonathan Kuminga", "nationality": "", "college": null, "highschool": "Huntington Prep", "hometown": "Goma"}
+{"full_name": "Buddy Hield", "nationality": "Bahamian", "college": "Oklahoma", "highschool": "Wichita, Kansas", "hometown": "Freeport, Bahamas"}
+{"full_name": "Cole Anthony", "nationality": "U.S.", "college": "North Carolina", "highschool": "Archbishop Molloy", "hometown": "Portland, Oregon"}
+{"full_name": "Herbert Jones", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Grant Williams", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Jakob P\u00f6ltl", "nationality": "Austria", "college": "Utah", "highschool": null, "hometown": "Vienna"}
+{"full_name": "Dorian Finney-Smith", "nationality": "U.S.", "college": "Virginia Tech", "highschool": "I. C. Norcom", "hometown": "Portsmouth, Virginia"}
+{"full_name": "De'Anthony Melton", "nationality": "U.S.", "college": "USC", "highschool": "Crespi", "hometown": "North Hollywood, California"}
+{"full_name": "P. J. Tucker", "nationality": "U.S.", "college": "Texas", "highschool": "William G. Enloe", "hometown": "Raleigh, North Carolina"}
+{"full_name": "Jabari Smith", "nationality": "American", "college": "Atlanta Metropolitan State", "highschool": "Booker T. Washington", "hometown": "Atlanta, Georgia"}
+{"full_name": "Seth Curry", "nationality": "U.S.", "college": "Liberty", "highschool": "Charlotte Christian", "hometown": "Charlotte, North Carolina"}
+{"full_name": "Matisse Thybulle", "nationality": "U.S.", "college": "Washington", "highschool": "Skyline", "hometown": "Scottsdale, Arizona"}
+{"full_name": "Alex Caruso", "nationality": "U.S.", "college": "College Station, Texas", "highschool": "A&M Consolidated", "hometown": "College Station, Texas"}
+{"full_name": "Ivica Zubac", "nationality": "Bosnia and Herzegovina", "college": null, "highschool": null, "hometown": "Mostar"}
+{"full_name": "Marcus Morris Sr.", "nationality": "U.S.", "college": "Kansas", "highschool": "Pennsauken, New Jersey", "hometown": "Philadelphia, Pennsylvania"}
+{"full_name": "Immanuel Quickley", "nationality": "American", "college": "Kentucky", "highschool": "The John Carroll School", "hometown": "Havre de Grace, Maryland"}
+{"full_name": "Jordan Clarkson", "nationality": "U.S.", "college": "Tulsa", "highschool": "Wagner", "hometown": "Tampa, Florida"}
+{"full_name": "Davion Mitchell", "nationality": "U.S.", "college": "Auburn", "highschool": "Liberty County", "hometown": "Hinesville, Georgia"}
+{"full_name": "Tyus Jones", "nationality": "U.S.", "college": "Duke", "highschool": "Apple Valley", "hometown": "Burnsville, Minnesota"}
+{"full_name": "Markelle Fultz", "nationality": "U.S.", "college": "Washington", "highschool": "DeMatha Catholic", "hometown": "Upper Marlboro, Maryland"}
+{"full_name": "JaVale McGee", "nationality": "U.S.", "college": "Nevada", "highschool": "Detroit Country Day", "hometown": "Flint, Michigan"}
+{"full_name": "Reggie Jackson", "nationality": "May 18, 1946", "college": "Baseball Tonight", "highschool": null, "hometown": "Abington Township, Pennsylvania"}
+{"full_name": "Chris Duarte", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Gary Payton II", "nationality": "U.S.", "college": "Salt Lake CC", "highschool": "Spring Valley", "hometown": "Seattle, Washington"}
+{"full_name": "Jae'Sean Tate", "nationality": "U.S.", "college": "Ohio State", "highschool": "Pickerington Central", "hometown": "Toledo, Ohio"}
+{"full_name": "Kevin Porter", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Alperen \u015eeng\u00fcn", "nationality": "Turkey", "college": null, "highschool": null, "hometown": "Giresun"}
+{"full_name": "Luguentz Dort", "nationality": "Canada", "college": "Arizona State", "highschool": "Arlington Country Day School", "hometown": "Montreal, Quebec"}
+{"full_name": "Chet Holmgren", "nationality": "U.S.", "college": "Gonzaga", "highschool": "Minnehaha Academy", "hometown": "Minneapolis, Minnesota"}
+{"full_name": "Daniel Gafford", "nationality": "U.S.", "college": "Arkansas", "highschool": "El Dorado", "hometown": "El Dorado, Arkansas"}
+{"full_name": "Will Barton", "nationality": "U.S.", "college": "Memphis", "highschool": "Brewster Academy", "hometown": "Baltimore, Maryland"}
+{"full_name": "Pat Connaughton", "nationality": "U.S.", "college": "Notre Dame", "highschool": "St. John's Prep", "hometown": "Arlington, Massachusetts"}
+{"full_name": "Joe Ingles", "nationality": "Australia", "college": null, "highschool": "Pasadena", "hometown": "Adelaide"}
+{"full_name": "Coby White", "nationality": "U.S.", "college": "North Carolina", "highschool": "Wilson, North Carolina", "hometown": "Goldsboro, North Carolina"}
+{"full_name": "Nicolas Batum", "nationality": "France", "college": null, "highschool": null, "hometown": "Lisieux"}
+{"full_name": "Robert Covington", "nationality": "U.S.", "college": "Tennessee State", "highschool": "Proviso West", "hometown": "Bellwood, Illinois"}
+{"full_name": "Payton Pritchard", "nationality": "U.S.", "college": "Oregon", "highschool": "West Linn", "hometown": "Tualatin, Oregon"}
+{"full_name": "Brandon Clarke", "nationality": "", "college": "San Jose State", "highschool": "Desert Vista", "hometown": "Vancouver"}
+{"full_name": "Ayo Dosunmu", "nationality": "U.S.", "college": "Illinois", "highschool": "Morgan Park", "hometown": "Chicago, Illinois"}
+{"full_name": "Luke Kennard", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Javonte Green", "nationality": "U.S.", "college": "Radford", "highschool": "Brunswick", "hometown": "Petersburg, Virginia"}
+{"full_name": "Caleb Martin", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Max Strus", "nationality": "U.S.", "college": "Lewis", "highschool": "Amos Alonzo Stagg", "hometown": "Hickory Hills, Illinois"}
+{"full_name": "Onyeka Okongwu", "nationality": "U.S.", "college": "USC", "highschool": "Chino Hills", "hometown": "Los Angeles, California"}
+{"full_name": "De'Andre Hunter", "nationality": "U.S.", "college": "Virginia", "highschool": "Friends' Central School", "hometown": "Philadelphia, Pennsylvania"}
+{"full_name": "Terence Davis", "nationality": "U.S.", "college": "Ole Miss", "highschool": "Southaven", "hometown": "Southaven, Mississippi"}
+{"full_name": "Malik Monk", "nationality": "U.S.", "college": "Kentucky", "highschool": "East Poinsett", "hometown": "Jonesboro, Arkansas"}
+{"full_name": "Obi Toppin", "nationality": "U.S.", "college": "Dayton", "highschool": "Heritage", "hometown": "Brooklyn, New York"}
+{"full_name": "Keegan Murray", "nationality": "U.S.", "college": "Iowa", "highschool": "Prairie", "hometown": "Cedar Rapids, Iowa"}
+{"full_name": "Kevin Huerter", "nationality": "U.S.", "college": "Maryland", "highschool": "Shenendehowa", "hometown": "Albany, New York"}
+{"full_name": "Thomas Bryant", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Evan Fournier", "nationality": "", "college": null, "highschool": "INSEP", "hometown": "Saint-Maurice, Val-de-Marne"}
+{"full_name": "Dwight Powell", "nationality": "Canada", "college": "Stanford", "highschool": "IMG Academy", "hometown": "Toronto, Ontario"}
+{"full_name": "Nic Claxton", "nationality": "U.S.", "college": "Georgia", "highschool": null, "hometown": "Greenville, South Carolina"}
+{"full_name": "Joe Harris", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Kentavious Caldwell-Pope", "nationality": "U.S.", "college": "Georgia", "highschool": "Greenville", "hometown": "Thomaston, Georgia"}
+{"full_name": "Jeff Green", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Bruce Brown", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Zeke Nnaji", "nationality": "U.S.", "college": "Arizona", "highschool": "Lakeville North", "hometown": "Minneapolis, Minnesota"}
+{"full_name": "Isaiah Jackson", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Bones Hyland", "nationality": "U.S.", "college": "VCU", "highschool": "St. Georges Tech", "hometown": "Southport, North Carolina"}
+{"full_name": "Jalen Smith", "nationality": "American", "college": "Maryland", "highschool": "Mount Saint Joseph", "hometown": "Portsmouth, Virginia"}
+{"full_name": "Jaxson Hayes", "nationality": "U.S.", "college": "Texas", "highschool": "Moeller", "hometown": "Norman, Oklahoma"}
+{"full_name": "Jos\u00e9 Alvarado", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Jaden Ivey", "nationality": "U.S.", "college": "Purdue", "highschool": "Marian", "hometown": "South Bend, Indiana"}
+{"full_name": "Marvin Bagley III", "nationality": "U.S.", "college": "Duke", "highschool": "Corona del Sol", "hometown": "Tempe, Arizona"}
+{"full_name": "Isaiah Stewart", "nationality": "U.S.", "college": "Washington", "highschool": "McQuaid Jesuit", "hometown": "Rochester, New York"}
+{"full_name": "Hamidou Diallo", "nationality": "U.S.", "college": "Kentucky", "highschool": "John Bowne", "hometown": "Queens, New York"}
+{"full_name": "Alec Burks", "nationality": "U.S.", "college": "Colorado", "highschool": null, "hometown": "Grandview, Missouri"}
+{"full_name": "Nerlens Noel", "nationality": "American", "college": "Kentucky", "highschool": "Everett", "hometown": "Malden, Massachusetts"}
+{"full_name": "Kelly Olynyk", "nationality": "Canada", "college": "Gonzaga", "highschool": "South Kamloops", "hometown": "Toronto, Ontario"}
+{"full_name": "Precious Achiuwa", "nationality": "Nigeria", "college": "Memphis", "highschool": "The Bronx, New York", "hometown": "Port Harcourt"}
+{"full_name": "Josh Richardson", "nationality": "U.S.", "college": "Tennessee", "highschool": "Santa Fe", "hometown": "Edmond, Oklahoma"}
+{"full_name": "Devin Vassell", "nationality": "U.S.", "college": "Florida State", "highschool": "Peachtree Ridge", "hometown": "Lawrenceville, Georgia"}
+{"full_name": "Chris Boucher", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Otto Porter Jr.", "nationality": "U.S.", "college": "Georgetown", "highschool": "Scott County Central", "hometown": "St. Louis, Missouri"}
+{"full_name": "Jae Crowder", "nationality": "U.S.", "college": "South Georgia Tech", "highschool": "Villa Rica", "hometown": "Villa Rica, Georgia"}
+{"full_name": "Cameron Payne", "nationality": "U.S.", "college": "Murray State", "highschool": "Lausanne Collegiate", "hometown": "Memphis, Tennessee"}
+{"full_name": "Darius Bazley", "nationality": "U.S.", "college": null, "highschool": "Finneytown", "hometown": "Brockton, Massachusetts"}
+{"full_name": "Dario \u0160ari\u0107", "nationality": "Croatia", "college": null, "highschool": null, "hometown": "\u0160ibenik"}
+{"full_name": "Taurean Prince", "nationality": "U.S.", "college": "Baylor", "highschool": "Earl Warren", "hometown": "San Marcos, Texas"}
+{"full_name": "Kyle Anderson", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Serge Ibaka", "nationality": "", "college": null, "highschool": null, "hometown": "Brazzaville"}
+{"full_name": "Patrick Williams", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Nassir Little", "nationality": "U.S.", "college": "North Carolina", "highschool": "Oakleaf", "hometown": "Pensacola, Florida"}
+{"full_name": "JaMychal Green", "nationality": "U.S.", "college": "Alabama", "highschool": "St. Jude", "hometown": "Montgomery, Alabama"}
+{"full_name": "Rui Hachimura", "nationality": "Japan", "college": "Gonzaga", "highschool": "Meisei", "hometown": "Toyama"}
+{"full_name": "Deni Avdija", "nationality": "Israel", "college": null, "highschool": null, "hometown": "Beit Zera"}
+{"full_name": "Isaac Okoro", "nationality": "U.S.", "college": "Auburn", "highschool": "McEachern", "hometown": "Atlanta, Georgia"}
+{"full_name": "Grayson Allen", "nationality": "U.S.", "college": "Duke", "highschool": "Providence School", "hometown": "Jacksonville, Florida"}
+{"full_name": "Robin Lopez", "nationality": "U.S.", "college": "Stanford", "highschool": "San Joaquin Memorial", "hometown": "Los Angeles, California"}
+{"full_name": "Lamar Stevens", "nationality": "U.S.", "college": "Penn State", "highschool": "Haverford School", "hometown": "Philadelphia, Pennsylvania"}
+{"full_name": "Cedi Osman", "nationality": "", "college": null, "highschool": null, "hometown": "Ohrid"}
+{"full_name": "Raul Neto", "nationality": "Brazil", "college": null, "highschool": null, "hometown": "Belo Horizonte"}
+{"full_name": "Terance Mann", "nationality": "U.S.", "college": "Florida State", "highschool": "Tilton School", "hometown": "Brooklyn, New York"}
+{"full_name": "Amir Coffey", "nationality": "U.S.", "college": "Minnesota", "highschool": "Hopkins", "hometown": "Hopkins, Minnesota"}
+{"full_name": "John Konchar", "nationality": "U.S.", "college": "Purdue Fort Wayne", "highschool": "West Chicago", "hometown": "West Chicago, Illinois"}
+{"full_name": "Xavier Tillman Sr.", "nationality": "U.S.", "college": "Michigan State", "highschool": "Forest Hills Central", "hometown": "Grand Rapids, Michigan"}
+{"full_name": "Aaron Holiday", "nationality": "U.S.", "college": "UCLA", "highschool": "Campbell Hall", "hometown": "Ruston, Louisiana"}
+{"full_name": "\u00d6mer Yurtseven", "nationality": "", "college": "NC State", "highschool": null, "hometown": "Tashkent"}
+{"full_name": "Dewayne Dedmon", "nationality": "U.S.", "college": "Antelope Valley", "highschool": "Lancaster", "hometown": "Lancaster, California"}
+{"full_name": "Gabe Vincent", "nationality": "U.S.", "college": "UC Santa Barbara", "highschool": "St. Mary's", "hometown": "Modesto, California"}
+{"full_name": "Mason Plumlee", "nationality": "U.S.", "college": "Duke", "highschool": "Warsaw Community", "hometown": "Fort Wayne, Indiana"}
+{"full_name": "Cody Martin", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Malik Beasley", "nationality": "U.S.", "college": "Florida State", "highschool": "St. Francis", "hometown": "Atlanta, Georgia"}
+{"full_name": "Chimezie Metu", "nationality": "U.S.", "college": "USC", "highschool": "Lawndale", "hometown": "Los Angeles, California"}
+{"full_name": "Richaun Holmes", "nationality": "U.S.", "college": "Moraine Valley CC", "highschool": "Lockport Township", "hometown": "Lockport, Illinois"}
+{"full_name": "Terrence Ross", "nationality": "U.S.", "college": "Washington", "highschool": "Jefferson", "hometown": "Portland, Oregon"}
+{"full_name": "Trey Lyles", "nationality": "Canada", "college": "Kentucky", "highschool": "Arsenal Tech", "hometown": "Saskatoon, Saskatchewan"}
+{"full_name": "Jalen Suggs", "nationality": "U.S.", "college": "Gonzaga", "highschool": "Minnehaha Academy", "hometown": "Saint Paul, Minnesota"}
+{"full_name": "Lonnie Walker IV", "nationality": "U.S.", "college": "Miami (Florida)", "highschool": "Reading", "hometown": "Reading, Pennsylvania"}
+{"full_name": "Chuma Okeke", "nationality": "U.S.", "college": "Auburn", "highschool": "Westlake", "hometown": "Atlanta, Georgia"}
+{"full_name": "Moritz Wagner", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Rudy Gay", "nationality": "New York City, New York, U.S.", "college": "UConn", "highschool": "Eastern Technical", "hometown": null}
+{"full_name": "Daniel Theis", "nationality": "Germany", "college": null, "highschool": null, "hometown": "Salzgitter"}
+{"full_name": "Devonte' Graham", "nationality": "U.S.", "college": "Kansas", "highschool": "Broughton", "hometown": "Raleigh, North Carolina"}
+{"full_name": "Oshae Brissett", "nationality": "Canadian", "college": "Syracuse", "highschool": "St. Aloysius Gonzaga", "hometown": "Toronto, Ontario"}
+{"full_name": "Goga Bitadze", "nationality": "Georgia", "college": null, "highschool": null, "hometown": "Sagarejo"}
+{"full_name": "Reggie Bullock", "nationality": "U.S.", "college": "North Carolina", "highschool": "Kinston", "hometown": "Baltimore, Maryland"}
+{"full_name": "Edmond Sumner", "nationality": "U.S.", "college": "Xavier", "highschool": "Detroit Country Day", "hometown": "Detroit, Michigan"}
+{"full_name": "Maxi Kleber", "nationality": "Germany", "college": null, "highschool": null, "hometown": "W\u00fcrzburg"}
+{"full_name": "Ish Smith", "nationality": "U.S.", "college": "Wake Forest", "highschool": "Central Cabarrus", "hometown": "Charlotte, North Carolina"}
+{"full_name": "Khem Birch", "nationality": "Canada", "college": "Pittsburgh", "highschool": "St. Thomas Aquinas", "hometown": "Montreal, Quebec"}
+{"full_name": "Trey Murphy III", "nationality": "U.S.", "college": "Rice", "highschool": "Cary Academy", "hometown": "Durham, North Carolina"}
+{"full_name": "T. J. McConnell", "nationality": "American", "college": "Duquesne", "highschool": "Chartiers Valley", "hometown": "Pittsburgh, Pennsylvania"}
+{"full_name": "Eric Gordon", "nationality": "U.S.", "college": "Indiana", "highschool": "North Central", "hometown": "Indianapolis, Indiana"}
+{"full_name": "Josh Christopher", "nationality": "U.S.", "college": "Arizona State", "highschool": "Mayfair", "hometown": "Carson, California"}
+{"full_name": "Isaiah Roby", "nationality": "U.S.", "college": "Nebraska", "highschool": "Dixon", "hometown": "Dixon, Illinois"}
+{"full_name": "Tre Mann", "nationality": "U.S.", "college": "Florida", "highschool": "The Villages", "hometown": "Gainesville, Florida"}
+{"full_name": "Derrick Favors", "nationality": "U.S.", "college": "Georgia Tech", "highschool": "South Atlanta", "hometown": "Atlanta, Georgia"}
+{"full_name": "Aleksej Poku\u0161evski", "nationality": "", "college": null, "highschool": null, "hometown": "Belgrade"}
+{"full_name": "Kenrich Williams", "nationality": "U.S.", "college": "New Mexico JC", "highschool": "University", "hometown": "Waco, Texas"}
+{"full_name": "Mike Muscala", "nationality": "U.S.", "college": "Bucknell", "highschool": "Roseville", "hometown": "St. Louis Park, Minnesota"}
+{"full_name": "Naz Reid", "nationality": "U.S.", "college": "LSU", "highschool": "Roselle Catholic", "hometown": "Asbury Park, New Jersey"}
+{"full_name": "Jaden McDaniels", "nationality": "U.S.", "college": "Washington", "highschool": "Federal Way", "hometown": "Seattle, Washington"}
+{"full_name": "Jaylen Nowell", "nationality": "U.S.", "college": "Washington", "highschool": "Garfield", "hometown": "Seattle, Washington"}
+{"full_name": "Jordan McLaughlin", "nationality": "U.S.", "college": "USC", "highschool": "Etiwanda", "hometown": "Pasadena, California"}
+{"full_name": "Drew Eubanks", "nationality": "U.S.", "college": "Oregon State", "highschool": "Reynolds", "hometown": "Starkville, Mississippi"}
+{"full_name": "Donte DiVincenzo", "nationality": "U.S.", "college": "Villanova", "highschool": "Salesianum", "hometown": "Newark, Delaware"}
+{"full_name": "Justise Winslow", "nationality": "U.S.", "college": "Duke", "highschool": "St. John's", "hometown": "Houston, Texas"}
+{"full_name": "Corey Kispert", "nationality": "U.S.", "college": "Gonzaga", "highschool": "King's", "hometown": "Edmonds, Washington"}
+{"full_name": "Goran Dragi\u0107", "nationality": "", "college": null, "highschool": null, "hometown": "Ljubljana"}
+{"full_name": "James Wiseman", "nationality": "U.S.", "college": "Memphis", "highschool": "The Ensworth School", "hometown": "Nashville, Tennessee"}
+{"full_name": "Kevon Looney", "nationality": "U.S.", "college": "UCLA", "highschool": "Alexander Hamilton", "hometown": "Milwaukee, Wisconsin"}
+{"full_name": "Delon Wright", "nationality": "U.S.", "college": "CC of San Francisco", "highschool": "Leuzinger", "hometown": "Los Angeles, California"}
+{"full_name": "Ziaire Williams", "nationality": "U.S.", "college": "Stanford", "highschool": "Notre Dame", "hometown": "Lancaster, California"}
+{"full_name": "Derrick Jones", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Tony Bradley", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Shake Milton", "nationality": "U.S.", "college": "SMU", "highschool": "Owasso", "hometown": "Savannah, Georgia"}
+{"full_name": "Duncan Robinson", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Frank Kaminsky", "nationality": "U.S.", "college": "Wisconsin", "highschool": "Benet Academy", "hometown": "Winfield, Illinois"}
+{"full_name": "Cam Reddish", "nationality": "American", "college": "Duke", "highschool": "Haverford School", "hometown": "Norristown, Pennsylvania"}
+{"full_name": "Talen Horton-Tucker", "nationality": "U.S.", "college": "Iowa State", "highschool": "Simeon", "hometown": "Chicago, Illinois"}
+{"full_name": "Austin Reaves", "nationality": "U.S.", "college": "Wichita State", "highschool": "Cedar Ridge", "hometown": "Newark, Arkansas"}
+{"full_name": "Alex Len", "nationality": "Ukraine", "college": "Dnipropetrovsk", "highschool": "Dnipropetrovsk", "hometown": "Antratsyt"}
+{"full_name": "Gary Harris", "nationality": "U.S.", "college": "Michigan State", "highschool": "Hamilton Southeastern", "hometown": "Fishers, Indiana"}
+{"full_name": "Isaiah Hartenstein", "nationality": "US", "college": null, "highschool": null, "hometown": "Eugene, Oregon"}
+{"full_name": "Kendrick Nunn", "nationality": "U.S.", "college": "Illinois", "highschool": "Simeon Career Academy", "hometown": "Chicago, Illinois"}
+{"full_name": "Royce O'Neale", "nationality": "U.S.", "college": "Denver", "highschool": "Harker Heights", "hometown": "Killeen, Texas"}
+{"full_name": "Cam Thomas", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Bennedict Mathurin", "nationality": "Canada", "college": "Arizona", "highschool": null, "hometown": "Montreal, Quebec"}
+{"full_name": "Thaddeus Young", "nationality": "U.S.", "college": "Georgia Tech", "highschool": "Mitchell", "hometown": "New Orleans, Louisiana"}
+{"full_name": "Terry Taylor", "nationality": "U.S.", "college": "Guilford College", "highschool": null, "hometown": "[1]"}
+{"full_name": "David Nwaba", "nationality": "American", "college": "Santa Monica College", "highschool": "University", "hometown": "Los Angeles, California"}
+{"full_name": "Doug McDermott", "nationality": "U.S.", "college": "Creighton", "highschool": "Ames", "hometown": "Grand Forks, North Dakota"}
+{"full_name": "Willy Hernang\u00f3mez", "nationality": "Spain", "college": null, "highschool": null, "hometown": "Madrid"}
+{"full_name": "Tre Jones", "nationality": "U.S.", "college": "Duke", "highschool": "Apple Valley", "hometown": "Apple Valley, Minnesota"}
+{"full_name": "Keita Bates-Diop", "nationality": "U.S.", "college": "Ohio State", "highschool": "University", "hometown": "Sacramento, California"}
+{"full_name": "Zach Collins", "nationality": "U.S.", "college": "Gonzaga", "highschool": "Bishop Gorman", "hometown": "Las Vegas, Nevada"}
+{"full_name": "Johnny Davis", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Torrey Craig", "nationality": "U.S.", "college": "USC Upstate", "highschool": "Great Falls, South Carolina", "hometown": "Columbia, South Carolina"}
+{"full_name": "Taj Gibson", "nationality": "New York City, New York, U.S.", "college": "USC", "highschool": "High School of Telecommunication Arts ", "hometown": null}
+{"full_name": "Gorgui Dieng", "nationality": "Senegal", "college": "Louisville", "highschool": "Thi\u00e8s", "hometown": "K\u00e9b\u00e9mer"}
+{"full_name": "Georges Niang", "nationality": "U.S.", "college": "Iowa State", "highschool": "Tilton School", "hometown": "Lawrence, Massachusetts"}
+{"full_name": "Trendon Watford", "nationality": "U.S.", "college": "LSU", "highschool": "Mountain Brook", "hometown": "Birmingham, Alabama"}
+{"full_name": "Paul Reed", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Charles Bassey", "nationality": "Nigeria", "college": "Western Kentucky", "highschool": "St. Anthony", "hometown": "Lagos"}
+{"full_name": "Dean Wade", "nationality": "U.S.", "college": "Kansas State", "highschool": "St. John, Kansas", "hometown": "Wichita, Kansas"}
+{"full_name": "Daniel Green", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "George Hill", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Furkan Korkmaz", "nationality": "Turkey", "college": null, "highschool": null, "hometown": "Istanbul"}
+{"full_name": "Nick Richards", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Jalen Johnson", "nationality": "U.S.", "college": "Duke", "highschool": "Sun Prairie", "hometown": "Wausau, Wisconsin"}
+{"full_name": "Ochai Agbaji", "nationality": "U.S.", "college": "Kansas", "highschool": "Oak Park", "hometown": "Milwaukee, Wisconsin"}
+{"full_name": "Jalen McDaniels", "nationality": "U.S.", "college": "San Diego State", "highschool": "Federal Way", "hometown": "Seattle, Washington"}
+{"full_name": "Joshua Green", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "D\u0101vis Bert\u0101ns", "nationality": "Latvia", "college": null, "highschool": null, "hometown": "Valmiera"}
+{"full_name": "Day'Ron Sharpe", "nationality": "U.S.", "college": "North Carolina", "highschool": "South Central", "hometown": "Greenville, North Carolina"}
+{"full_name": "Dyson Daniels", "nationality": "Australia", "college": null, "highschool": null, "hometown": "Bendigo, Victoria"}
+{"full_name": "Garrison Mathews", "nationality": "U.S.", "college": "Lipscomb", "highschool": "Franklin", "hometown": "Franklin, Tennessee"}
+{"full_name": "Cory Joseph", "nationality": "Canada", "college": "Texas", "highschool": "Pickering", "hometown": "Toronto, Ontario"}
+{"full_name": "Boban Marjanovi\u0107", "nationality": "", "college": null, "highschool": null, "hometown": "Boljevac"}
+{"full_name": "Naji Marshall", "nationality": "U.S.", "college": "Xavier", "highschool": "Takoma Academy", "hometown": "Atlantic City, New Jersey"}
+{"full_name": "Jeremy Sochan", "nationality": "U.S.", "college": "Itchen College", "highschool": "Itchen College", "hometown": "Guymon, Oklahoma"}
+{"full_name": "Jeremiah Robinson-Earl", "nationality": "U.S.", "college": "Villanova", "highschool": "Bishop Miege", "hometown": "Kansas City, Missouri"}
+{"full_name": "Aaron Wiggins", "nationality": "U.S.", "college": "Maryland", "highschool": "Grimsley", "hometown": "Greensboro, North Carolina"}
+{"full_name": "Jalen Duren", "nationality": "U.S.", "college": "Memphis", "highschool": "Roman Catholic", "hometown": "New Castle, Delaware"}
+{"full_name": "Usman Garuba", "nationality": "Spain", "college": null, "highschool": null, "hometown": "Madrid"}
+{"full_name": "Moses Moody", "nationality": "U.S.", "college": "Arkansas", "highschool": "Parkview", "hometown": "Little Rock, Arkansas"}
+{"full_name": "Bryn Forbes", "nationality": "U.S.", "college": "Cleveland State", "highschool": "J. W. Sexton", "hometown": "Lansing, Michigan"}
+{"full_name": "Austin Rivers", "nationality": "U.S.", "college": "Duke", "highschool": "Winter Park", "hometown": "Santa Monica, California"}
+{"full_name": "Vernon Carey", "nationality": null, "college": "Miami (FL)", "highschool": "Miami Northwestern", "hometown": "Miami, Florida"}
+{"full_name": "Marquese Chriss", "nationality": "U.S.", "college": "Washington", "highschool": "Pleasant Grove", "hometown": "Sacramento, California"}
+{"full_name": "Landry Shamet", "nationality": "U.S.", "college": "Wichita State", "highschool": "Park Hill", "hometown": "Kansas City, Missouri"}
+{"full_name": "Danuel House", "nationality": "U.S.", "college": "Houston", "highschool": "Hightower", "hometown": "Houston, Texas"}
+{"full_name": "Damion Lee", "nationality": "U.S.", "college": "Drexel", "highschool": "Calvert Hall", "hometown": "Baltimore, Maryland"}
+{"full_name": "Wesley Matthews", "nationality": "U.S.", "college": "Marquette", "highschool": "James Madison Memorial", "hometown": "San Antonio, Texas"}
+{"full_name": "Justin Holiday", "nationality": "American", "college": "Washington", "highschool": "Campbell Hall", "hometown": "Mission Hills, California"}
+{"full_name": "David Roddy", "nationality": "U.S.", "college": "Colorado State", "highschool": "Breck School", "hometown": "Minneapolis, Minnesota"}
+{"full_name": "Thanasis Antetokounmpo", "nationality": "Greece", "college": null, "highschool": null, "hometown": "Athens"}
+{"full_name": "Moses Brown", "nationality": null, "college": null, "highschool": null, "hometown": "Providence"}
+{"full_name": "Brandon Boston Jr.", "nationality": "U.S.", "college": "Kentucky", "highschool": "Norcross", "hometown": "Norcross, Georgia"}
+{"full_name": "Mark Williams", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "AJ Griffin", "nationality": "U.S.", "college": "Duke", "highschool": "Archbishop Stepinac", "hometown": "Dallas, Texas"}
+{"full_name": "Jevon Carter", "nationality": "U.S.", "college": "West Virginia", "highschool": "Proviso East", "hometown": "Oak Park, Illinois"}
+{"full_name": "Kai Jones", "nationality": null, "college": "Texas", "highschool": "Orlando Christian Prep", "hometown": "Nassau, Bahamas"}
+{"full_name": "James Bouknight", "nationality": "U.S.", "college": "UConn", "highschool": "La Salle Academy", "hometown": "Brooklyn, New York"}
+{"full_name": "Nickeil Alexander-Walker", "nationality": "Canada", "college": "Virginia Tech", "highschool": "Vaughan Secondary School", "hometown": "Toronto, Ontario"}
+{"full_name": "Simone Fontecchio", "nationality": "Italy", "college": null, "highschool": null, "hometown": "Pescara, Abruzzo"}
+{"full_name": "Quentin Grimes", "nationality": "U.S.", "college": "The Woodlands College Park", "highschool": "The Woodlands College Park", "hometown": "Houston, Texas"}
+{"full_name": "Troy Brown", "nationality": "", "college": "Marshall", "highschool": "Blackville-Hilda", "hometown": "Barnwell"}
+{"full_name": "Damian Jones", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Juan Toscano-Anderson", "nationality": "U.S.", "college": "Marquette", "highschool": null, "hometown": "Oakland, California"}
+{"full_name": "Patty Mills", "nationality": "Australia", "college": "Marist College", "highschool": "Marist College", "hometown": "Canberra"}
+{"full_name": "R. J. Hampton", "nationality": "U.S.", "college": null, "highschool": "Little Elm", "hometown": "Dallas, Texas"}
+{"full_name": "Yuta Watanabe", "nationality": "Japan", "college": "George Washington", "highschool": "Zents\u016bji", "hometown": "Yokohama"}
+{"full_name": "Frank Ntilikina", "nationality": "Belgium", "college": null, "highschool": null, "hometown": "Ixelles"}
+{"full_name": "Dalano Banton", "nationality": "Canada", "college": "Western Kentucky", "highschool": "Central Toronto Academy", "hometown": "Toronto, Ontario"}
+{"full_name": "Isaiah Livers", "nationality": "U.S.", "college": "Michigan", "highschool": "Kalamazoo Central", "hometown": "Kalamazoo, Michigan"}
+{"full_name": "Markieff Morris", "nationality": "U.S.", "college": "Kansas", "highschool": "Pennsauken, New Jersey", "hometown": "Philadelphia, Pennsylvania"}
+{"full_name": "DeAndre Jordan", "nationality": "U.S.", "college": "Texas A&M", "highschool": "Episcopal", "hometown": "Houston, Texas"}
+{"full_name": "Kira Lewis Jr.", "nationality": "U.S.", "college": "Alabama", "highschool": "Hazel Green", "hometown": "Meridianville, Alabama"}
+{"full_name": "David Duke", "nationality": "U.S.", "college": null, "highschool": null, "hometown": "Tulsa, Oklahoma"}
+{"full_name": "Davon Reed", "nationality": "U.S.", "college": "Miami (Florida)", "highschool": "Princeton Day School", "hometown": "Ewing Township, New Jersey"}
+{"full_name": "Tari Eason", "nationality": "U.S.", "college": "Cincinnati", "highschool": "Garfield", "hometown": "Portsmouth, Virginia"}
+{"full_name": "Malaki Branham", "nationality": "U.S.", "college": "Ohio State", "highschool": "St. Vincent\u2013St. Mary", "hometown": "Columbus, Ohio"}
+{"full_name": "Th\u00e9o Maledon", "nationality": "France", "college": null, "highschool": null, "hometown": "Rouen"}
+{"full_name": "Bismack Biyombo", "nationality": "", "college": null, "highschool": null, "hometown": "Lubumbashi"}
+{"full_name": "Ty Jerome", "nationality": "U.S.", "college": "Virginia", "highschool": "Iona Prep", "hometown": "New York City, New York"}
+{"full_name": "Jalen Williams", "nationality": "U.S.", "college": "Santa Clara", "highschool": "Perry", "hometown": "Gilbert, Arizona"}
+{"full_name": "Ousmane Dieng", "nationality": "France", "college": null, "highschool": null, "hometown": "Villeneuve-sur-Lot"}
+{"full_name": "Greg Brown", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Shaedon Sharpe", "nationality": "Canada", "college": null, "highschool": "H. B. Beal", "hometown": "London, Ontario"}
+{"full_name": "Anthony Gill", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Sam Hauser", "nationality": "U.S.", "college": "Marquette", "highschool": "Stevens Point Area", "hometown": "Green Bay, Wisconsin"}
+{"full_name": "Duane Washington Jr.", "nationality": "Germany", "college": "Ohio State", "highschool": "Grand Rapids Christian", "hometown": "Frankfurt"}
+{"full_name": "MarJon Beauchamp", "nationality": "U.S.", "college": "Yakima Valley", "highschool": "Nathan Hale", "hometown": "Yakima, Washington"}
+{"full_name": "Dalen Terry", "nationality": "U.S.", "college": "Arizona", "highschool": "Corona del Sol", "hometown": "Phoenix, Arizona"}
+{"full_name": "Jake LaRavia", "nationality": "U.S.", "college": "Indiana State", "highschool": "Lawrence Central", "hometown": "Pasadena, California"}
+{"full_name": "Sandro Mamukelashvili", "nationality": "U.S.", "college": "Seton Hall", "highschool": "Montverde Academy", "hometown": "New York City, New York"}
+{"full_name": "Dylan Windler", "nationality": "U.S.", "college": "Belmont", "highschool": "Perry Meridian", "hometown": "Indianapolis, Indiana"}
+{"full_name": "Leandro Bolmaro", "nationality": "Las Varillas, Argentina", "college": null, "highschool": null, "hometown": null}
+{"full_name": "Walker Kessler", "nationality": "U.S.", "college": "Woodward Academy", "highschool": "Woodward Academy", "hometown": "Atlanta, Georgia"}
+{"full_name": "Jericho Sims", "nationality": "American", "college": "Texas", "highschool": "Cristo Rey Jesuit", "hometown": "Minneapolis, Minnesota"}
+{"full_name": "Miles McBride", "nationality": "American", "college": "West Virginia", "highschool": "Moeller", "hometown": "Cincinnati, Ohio"}
+{"full_name": "Bol Bol", "nationality": "Sudan", "college": "Oregon", "highschool": "Blue Valley Northwest", "hometown": "Khartoum"}
+{"full_name": "Kessler Edwards", "nationality": "U.S.", "college": "Pepperdine", "highschool": "Etiwanda", "hometown": "Glendale, California"}
+{"full_name": "Wenyen Gabriel", "nationality": "Sudan", "college": "Kentucky", "highschool": "Trinity", "hometown": "Khartoum"}
+{"full_name": "List of Knight's Cross of the Iron Cross recipients (Bn\u2013Bz)", "nationality": "*", "college": null, "highschool": null, "hometown": "Heer"}
+{"full_name": "Killian Hayes", "nationality": "U.S.", "college": null, "highschool": null, "hometown": "Lakeland, Florida"}
+{"full_name": "Rodney McGruder", "nationality": "U.S.", "college": "Kansas State", "highschool": "Archbishop Carroll", "hometown": "Landover, Maryland"}
+{"full_name": "Kevin Knox", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "TyTy Washington Jr.", "nationality": "U.S.", "college": "Kentucky", "highschool": "Cesar Chavez", "hometown": "Phoenix, Arizona"}
+{"full_name": "Vlatko \u010can\u010dar", "nationality": "Slovenia", "college": null, "highschool": null, "hometown": "Koper"}
+{"full_name": "Aaron Nesmith", "nationality": "U.S.", "college": "Vanderbilt", "highschool": "Porter-Gaud", "hometown": "Charleston, South Carolina"}
+{"full_name": "Trey Burke", "nationality": "U.S.", "college": "Michigan", "highschool": "Northland", "hometown": "Columbus, Ohio"}
+{"full_name": "Josh Okogie", "nationality": "Nigeria", "college": "Georgia Tech", "highschool": "Shiloh", "hometown": "Lagos"}
+{"full_name": "Blake Wesley", "nationality": "July 10, 1959", "college": null, "highschool": null, "hometown": "Red Deer"}
+{"full_name": "Wendell Moore", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Lindy Waters III", "nationality": "U.S.", "college": "Oklahoma State", "highschool": "Norman North", "hometown": "Oklahoma City, Oklahoma"}
+{"full_name": "Marko Simonovi\u0107", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Luka Garza", "nationality": "U.S.", "college": "Iowa", "highschool": "Maret School", "hometown": "Washington, D.C."}
+{"full_name": "Jaden Springer", "nationality": "U.S.", "college": "Tennessee", "highschool": "Rocky River", "hometown": "Charlotte, North Carolina"}
+{"full_name": "Nathan Knight", "nationality": "U.S.", "college": "William & Mary", "highschool": "Nottingham", "hometown": "Syracuse, New York"}
+{"full_name": "Keon Johnson", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Luke Kornet", "nationality": "U.S.", "college": "Vanderbilt", "highschool": "Liberty Christian School", "hometown": "Lexington, Kentucky"}
+{"full_name": "Jason Preston", "nationality": "U.S.", "college": "Ohio", "highschool": "Boone", "hometown": "Orlando, Florida"}
+{"full_name": "Mfiondu Kabengele", "nationality": "Canadian", "college": "Florida State", "highschool": "Corpus Christi", "hometown": "Burlington, Ontario"}
+{"full_name": "Kennedy Chandler", "nationality": "U.S.", "college": "Tennessee", "highschool": "Briarcrest Christian School", "hometown": "Memphis, Tennessee"}
+{"full_name": "Santiago Aldama", "nationality": "Spain", "college": null, "highschool": null, "hometown": "Quel, La Rioja"}
+{"full_name": "JT Thor", "nationality": "U.S.", "college": "Auburn", "highschool": "West Anchorage", "hometown": "Omaha, Nebraska"}
+{"full_name": "Udonis Haslem", "nationality": "U.S.", "college": "Florida", "highschool": "Samuel Wolfson", "hometown": "Miami, Florida"}
+{"full_name": "Max Christie", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Bryce McGowens", "nationality": "U.S.", "college": "Wren", "highschool": "Wren", "hometown": "Pendleton, South Carolina"}
+{"full_name": "Neemias Queta", "nationality": null, "college": "Utah State", "highschool": "F.C. Barreirense", "hometown": "Barreiro, Portugal"}
+{"full_name": "Caleb Houstan", "nationality": "Canada", "college": "Michigan", "highschool": "Montverde Academy", "hometown": "Mississauga, Ontario"}
+{"full_name": "Jaden Hardy", "nationality": "U.S.", "college": null, "highschool": "Coronado", "hometown": "Detroit, Michigan"}
+{"full_name": "Andrew Nembhard", "nationality": "Canada", "college": "Florida", "highschool": "Vaughan Secondary School", "hometown": "Aurora, Ontario"}
+{"full_name": "Peyton Watson", "nationality": "U.S.", "college": "UCLA", "highschool": "Long Beach Poly", "hometown": "Beverly Hills, California"}
+{"full_name": "Garrett Temple", "nationality": "U.S.", "college": "LSU", "highschool": "LSU Laboratory School", "hometown": "Baton Rouge, Louisiana"}
+{"full_name": "Justin Champagnie", "nationality": "U.S.", "college": "Pittsburgh", "highschool": "Bishop Loughlin", "hometown": "Staten Island, New York"}
+{"full_name": "Christian Koloko", "nationality": "Cameroon", "college": "Arizona", "highschool": "Birmingham", "hometown": "Douala"}
+{"full_name": "Ish Wainright", "nationality": "U.S.", "college": "Baylor", "highschool": "Raytown South", "hometown": "Kansas City, Missouri"}
+{"full_name": "Romeo Langford", "nationality": "U.S.", "college": "Indiana", "highschool": "New Albany", "hometown": "New Albany, Indiana"}
+{"full_name": "Isaiah Todd", "nationality": "U.S.", "college": null, "highschool": "John Marshall", "hometown": "Baltimore, Maryland"}
+{"full_name": "Isaiah Joe", "nationality": "U.S.", "college": "Arkansas", "highschool": "Northside", "hometown": "Fort Smith, Arkansas"}
+{"full_name": "Jaylin Williams", "nationality": "U.S.", "college": "Arkansas", "highschool": "Northside", "hometown": "Fort Smith, Arkansas"}
+{"full_name": "V\u00edt Krej\u010d\u00ed", "nationality": "Czech Republic", "college": null, "highschool": null, "hometown": "Strakonice"}
+{"full_name": "Jock Landale", "nationality": "Australian", "college": "Saint Mary's", "highschool": "Geelong Grammar School", "hometown": "Melbourne, Victoria"}
+{"full_name": "JD Davison", "nationality": "U.S.", "college": "Alabama", "highschool": "Letohatchee, Alabama", "hometown": "Montgomery, Alabama"}
+{"full_name": "Moussa Diabat\u00e9", "nationality": "France", "college": "Michigan", "highschool": "Florida Prep Academy", "hometown": "Paris"}
+{"full_name": "Isaiah Mobley", "nationality": "U.S.", "college": "USC", "highschool": "Temecula, California", "hometown": "San Diego, California"}
+{"full_name": "Patrick Baldwin Jr.", "nationality": "U.S.", "college": "Milwaukee", "highschool": "Hamilton", "hometown": "Evanston, Illinois"}
+{"full_name": "Kenneth Lofton Jr.", "nationality": "U.S.", "college": "Louisiana Tech", "highschool": "Memorial", "hometown": "Port Arthur, Texas"}
+{"full_name": "Admiral Schofield", "nationality": "England", "college": "Tennessee", "highschool": "Zion-Benton Township", "hometown": "London"}
+{"full_name": "Julian Champagnie", "nationality": "U.S.", "college": "St. John's", "highschool": "Bishop Loughlin", "hometown": "Staten Island, New York"}
+{"full_name": "Haywood Highsmith", "nationality": "U.S.", "college": "Wheeling", "highschool": "Archbishop Curley", "hometown": "Baltimore, Maryland"}
+{"full_name": "Theo Pinson", "nationality": "U.S.", "college": "North Carolina", "highschool": "Wesleyan Christian Academy", "hometown": "Greensboro, North Carolina"}
+{"full_name": "McKinley Wright IV", "nationality": "U.S.", "college": "Colorado", "highschool": "Champlin Park", "hometown": "Minneapolis, Minnesota"}
+{"full_name": "Ron Harper Jr.", "nationality": "U.S.", "college": "Rutgers", "highschool": "Don Bosco Prep", "hometown": "Paterson, New Jersey"}
+{"full_name": "Buddy Boeheim", "nationality": "U.S.", "college": "Syracuse", "highschool": "Jamesville-DeWitt", "hometown": "Fayetteville, New York"}
+{"full_name": "Alondes Williams", "nationality": "U.S.", "college": "Triton", "highschool": "Riverside", "hometown": "Milwaukee, Wisconsin"}
+{"full_name": "Collin Gillespie", "nationality": "U.S.", "college": "Villanova", "highschool": "Archbishop Wood Catholic", "hometown": "Philadelphia, Pennsylvania"}
+{"full_name": "Eugene Omoruyi", "nationality": "Nigeria", "college": "Rutgers", "highschool": "Orangeville Prep", "hometown": "Benin City"}
+{"full_name": "Josh Minott", "nationality": "U.S.", "college": "Memphis", "highschool": "Saint Andrew's School", "hometown": "Boca Raton, Florida"}
+{"full_name": "Trevor Hudgins", "nationality": "U.S.", "college": "Northwest Missouri State", "highschool": "Manhattan", "hometown": "Manhattan, Kansas"}
+{"full_name": "Ryan Rollins", "nationality": "U.S.", "college": "Toledo", "highschool": "Dakota", "hometown": "Detroit, Michigan"}
+{"full_name": "Trevelin Queen", "nationality": "U.S.", "college": "Marin", "highschool": "North County", "hometown": "Baltimore, Maryland"}
+{"full_name": "Jabari Walker", "nationality": "U.S.", "college": "Colorado", "highschool": "Campbell Hall", "hometown": "Wichita, Kansas"}
+{"full_name": "Scotty Pippen Jr.", "nationality": "U.S.", "college": "Vanderbilt", "highschool": "Pine Crest School", "hometown": "Portland, Oregon"}
+{"full_name": "A. J. Green", "nationality": null, "college": "Georgia", "highschool": "Summerville", "hometown": "Summerville, South Carolina"}
+{"full_name": "Darius Days", "nationality": "U.S.", "college": "LSU", "highschool": "IMG Academy", "hometown": "Gainesville, Florida"}
+{"full_name": "Cole Swider", "nationality": "American", "college": "Villanova", "highschool": "St. Andrew's School", "hometown": null}
+{"full_name": "Feron Hunt", "nationality": "American", "college": "SMU", "highschool": "DeSoto", "hometown": "New Orleans, Louisiana"}
+{"full_name": "Kevon Harris", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "Jack White", "nationality": null, "college": null, "highschool": null, "hometown": "Detroit"}
+{"full_name": "Jeff Dowtin", "nationality": null, "college": "St. John's College", "highschool": "St. John's College", "hometown": "Upper Marlboro, Maryland"}
+{"full_name": "Braxton Key", "nationality": "U.S.", "college": "Alabama", "highschool": "Christ Presbyterian Academy", "hometown": "Charlotte, North Carolina"}
+{"full_name": "Daishen Nix", "nationality": "U.S.", "college": null, "highschool": "Las Vegas, Nevada", "hometown": "Fairbanks, Alaska"}
+{"full_name": "Jordan Hall", "nationality": null, "college": null, "highschool": null, "hometown": null}
+{"full_name": "A. J. Lawson", "nationality": "Canadian", "college": "South Carolina", "highschool": "Brampton, Ontario", "hometown": "Toronto, Ontario"}
+{"full_name": "Dominick Barlow", "nationality": "U.S.", "college": null, "highschool": "St. Joseph's Prep", "hometown": "Hackensack, New Jersey"}

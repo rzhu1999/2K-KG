@@ -13,9 +13,14 @@ class playerSpider(scrapy.Spider):
     #}
     def start_requests(self):
         urls = []
+        
         with jsonlines.open("/Users/derekshi/Desktop/DSCI558/2K-KG/nba_players/nba_players/spiders/basicinfo.jsonlines", "r") as jsonl_f:
             for content in jsonl_f:
-                urls.append(content["player_link"])
+                player_link = content["player_link"]
+                if player_link not in urls:
+                    urls.append(player_link)
+
+        print(len(urls))
         
         for url in urls:
             yield scrapy.Request(url = url, callback = self.parse)
@@ -30,8 +35,18 @@ class playerSpider(scrapy.Spider):
         player_obj = NbaPlayerItem()
         #//li[span[contains(text(), 'Director')]]
 
-        full_name = response.xpath("//div[@class = 'player-fullname']/text()").extract_first().strip("\n").strip("\t")
-        team = response.xpath("//div[@class = 'player-team']/a/text()").extract_first().strip("\n").strip("\t")
+        
+        full_name = response.xpath("//div[@class = 'player-fullname']/text()").extract_first()
+        if full_name is None:
+            full_name = ''
+        else:
+            full_name  = full_name.strip("\n").strip("\t")
+
+        team = response.xpath("//div[@class = 'player-team']/a/text()").extract_first()
+        if team is None:
+            team = ''
+        else:
+            team  = team.strip("\n").strip("\t")
         position = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[0]
         born = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[1]
         height = response.xpath("//div[@class = 'player-bio-text']/span[@class = 'player-bio-text-line']/span[@class='player-bio-text-line-value']/text()").getall()[2]
