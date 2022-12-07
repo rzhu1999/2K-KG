@@ -75,9 +75,3 @@ The purpose of making this knowledge graph is to aggregate and collect informati
 ### 2. Staple API
 
 Staple API takes a specified RDF ontology, a configuration of the back-end source, and automatically spins-up a ready GraphQL service, with a a corresponding schema and resolvers.
-
-## Ref for developers
-
-[Creating KG App](https://levelup.gitconnected.com/knowledge-graph-app-in-15min-c76b94bb53b3)
-
-[Predict future stats](https://towardsdatascience.com/predicting-the-outcome-of-nba-games-with-machine-learning-a810bb768f20)
